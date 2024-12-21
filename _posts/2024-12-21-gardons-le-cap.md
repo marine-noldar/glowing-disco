@@ -29,11 +29,7 @@ Voici les retranscriptions de nos quatre discussions.
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #46ddd3; position: relative;">
-    Non, pas de plans de classification officiels. Cependant, au premier cours d’archivistique, pour moi aussi, un vieux journal, c’était une archive. Quand on nous a dit : « Non, ce n’est pas une archive », ma réaction a été : « Attends un peu, là… » 
-
-    (rires) 
-    
-    Ça venait complètement défaire l’idée que je me faisais d’une archive. Je ne savais plus rien. Mais quand on a parlé d’organicité et que j’ai compris ce qu’était un document organique, j’ai fait comme : « Ah! Ding! » 
+    Non, pas de plans de classification officiels. Cependant, au premier cours d’archivistique, pour moi aussi, un vieux journal, c’était une archive. Quand on nous a dit : « Non, ce n’est pas une archive », ma réaction a été : « Attends un peu, là… » Ça venait complètement défaire l’idée que je me faisais d’une archive. Je ne savais plus rien. Mais quand on a parlé d’organicité et que j’ai compris ce qu’était un document organique, j’ai fait comme : « Ah! Ding! » 
   </div>
 </div>
 
