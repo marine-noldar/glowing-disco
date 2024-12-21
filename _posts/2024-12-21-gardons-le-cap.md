@@ -33,14 +33,6 @@ Voici les retranscriptions de nos quatre discussions.
   </div>
 </div>
 
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #b66dba; position: relative;">
-    Ça va bien, merci ! Et toi, Marine ?
-  </div>
-</div>
-
 ## Marine : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
