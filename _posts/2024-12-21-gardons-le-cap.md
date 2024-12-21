@@ -19,7 +19,7 @@ Voici les retranscriptions de nos quatre discussions.
 
 ## Marine : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <img src="images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #367752; position: relative;">
     OK, cool. Donc, finalement, je pense que je suis celle qui avait le moins de connaissances en archivistique. Je me suis pointée au cours avec l’idée qu’une archive, c’était un vieux truc sur une étagère. Je n’avais vraiment pas d’idée préconçue. Taylor, tu as quand même suivi des cours, mais du côté anglophone/américain/international. Et toi, Pascale, par ton expérience de travail, j’ai l’impression que, déjà, tu étais plus habituée avec les bases de données, la classification de documents. Tu ne faisais pas des plans de classification officiels comme on le voit en cours, mais… 
   </div>
