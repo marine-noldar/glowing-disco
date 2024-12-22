@@ -5,7 +5,7 @@ date: 2024-09-07
 Insérer ici les 12 cours.
 
 ## Table des matières
-- [Séance 1](#séance 1-1)
+- [Séance 1](#Séance-1)
 - [Sous-post 2](#sous-post-2)
 - [Sous-post 3](#sous-post-3)
 - [Sous-post 4](#sous-post-4)
