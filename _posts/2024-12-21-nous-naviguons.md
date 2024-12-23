@@ -6,17 +6,17 @@ Insérer ici les 12 cours.
 
 ## Table des matières
 - [Séance 1](#Séance-1)
-- [Sous-post 2](#sous-post-2)
-- [Sous-post 3](#sous-post-3)
-- [Sous-post 4](#sous-post-4)
-- [Sous-post 5](#sous-post-5)
-- [Sous-post 6](#sous-post-6)
-- [Sous-post 7](#sous-post-7)
-- [Sous-post 8](#sous-post-8)
-- [Sous-post 9](#sous-post-9)
-- [Sous-post 10](#sous-post-10)
-- [Sous-post 11](#sous-post-11)
-- [Sous-post 12](#sous-post-12)
+- [Séance 2](#Séance-2)
+- [Séance 3](#Séance-3)
+- [Séance 4](#Séance-4)
+- [Séance 5](#Séance-5)
+- [Séance 8](#Séance-8)
+- [Séance 9](#Séance-9)
+- [Séance 10](#Séance-10)
+- [Séance 11(#Séance-11)
+- [Séance 12](#Séance-12)
+- [Séance 13](#Séance-13)
+- [Séance 14](#Séance-14)
 
 ---
 
@@ -31,56 +31,100 @@ Enfin, nous retenons cette phrase du cours, applicable aussi bien sur le plan pe
 
 ---
 
-## Sous-post 2
-Contenu du deuxième sous-post.
+## Séance 2
+Pour cette deuxième séance, nous nous sommes attaquées au principe du respect des fonds. Pour plusieurs d’entre nous, c’était la première fois que nous entendions parler de ce sujet, et celui-ci a fait naître plusieurs interrogations. Marine s’est notamment questionnée sur l’ordre des documents, soit le second degré du principe des fonds d’archives. Comment tracer la ligne entre un ordre originel qui est adéquat (et que nous devons alors respecter) et un ordre originel qui ne le serait pas ? À partir de quand décide-t-on que l’ordre est inadéquat ? Qu’est-ce que l’ordre primitif ? Comment fait-on pour le reconstituer ? 
+
+Les sujets de l’ordre et de l’emplacement des documents se sont également présentés dans les réflexions de Marine et de Pascale. Pour Marine, l’enjeu des archives numériques semble déstabiliser la pertinence du principe de territorialité. Ce principe reste-t-il aussi important, maintenant que tous les documents ont le potentiel d’être consultables en ligne de n’importe où dans le monde ? En même temps, quand elle pense aux pays colonisateurs qui refusent de restituer les archives de leurs anciennes colonies et se contentent de les numériser, il lui semble évident, pour des raisons éthiques, que le principe de territorialité devrait être respecté. Pour Pascale, le classement des archives selon la provenance lui a fait réaliser qu’il fallait très bien connaître le milieu archivistique de sa région, de sa province, voire de son pays pour être en mesure, comme utilisateur d’archives, d'effectuer une recherche efficace. Les professionnels qui travaillent dans les archives s’y retrouvent plus facilement, mais le fait de ne pas pouvoir chercher par sujet complique les choses pour le grand public. Pascale imagine que, comme professionnelle, pour être en mesure de diriger les usagers vers les bonnes bases de données, il vaut mieux posséder une excellente connaissance des fonds qui existent et de leur contenu. Le principe de territorialité peut aider à repérer les fonds, mais le fait que des fonds privés puissent être vendus au plus offrant, sans prendre en compte le territoire, vient ajouter une nouvelle couche de complexité à la découvrabilité. 
+
+Finalement, la discussion de la différence entre un fonds et une collection a produit quelques réflexions intéressantes. Taylor a trouvé cette explication très utile afin de mieux comprendre le principe du respect des fonds. En fait, son interrogation principale portait sur la notion de « totalité des documents produits » par une entité. Oui, la totalité de ces documents sont des archives (actives ou semi-actives), mais en pratique, tous les documents ne seront pas être conservés. Dans ce contexte, un fonds représente, dans un contexte d’archives historiques, tout ce qui a été versé aux Archives nationales lors des opérations d’un organisme ; la collection, elle, comporte un aspect très subjectif, avec des éléments de sélection de hasard dans son élaboration.  Marine a elle aussi mieux compris la distinction entre fonds d’archives et collection : ce ne sont pas les archives du juge Baby qu’on retrouve dans sa collection, mais des archives réunies selon ses intérêts personnels. Enfin, pour Pascale, la différence entre ces deux concepts est compliquée par l’exemple des archives du Centre national pour la vérité et la réconciliation présenté dans un article de Marie-Laure Josselin. Le travail de l’archiviste Raymond Frogner est de retrouver des archives concernant les pensionnats pour autochtones et de les regrouper, afin de retracer la vérité (Josselin, 2024). Comme ces archives ont différentes provenances (des familles autochtones, des fonds d’archives religieux, etc.), le CNVR est-il en réalité en train de construire une collection d’archives sur les pensionnats pour autochtones? Ou s’agit-il d’un nouveau fonds ? 
 
 ---
 
-## Sous-post 3
-Contenu du troisième sous-post.
+## Séance 3
+Cette séance a déclenché une série de questionnements chez les trois membres de notre équipe. L’un d’entre eux concernait les documents principaux et secondaires. Taylor s’est posé la question suivante : si un document qui ne devait être consulté que par les membres d’un autre département que celui qui l’a produit est imprimé, annoté et utilisé comme référence lors de la création de nouveaux documents, doit-il encore être considéré comme un document secondaire ? Est-ce que les notes prises lors de la consultation de ce document, si elles servent comme outil de travail par la suite, deviennent elles-mêmes un document principal ? Dans quelle mesure devrait-on alors tenter de prévenir la reproduction des documents à l’extérieur de l’unité productrice? Est-ce qu’il serait pertinent de dire qu’on devrait prioriser la réduction des copies des documents principaux au-delà de l’utilisation active de celles-ci? Si une unité utilise un document provenant d’une autre unité lors de ses activités, il serait peut-être pertinent d’affirmer qu’à ce moment-là, la valeur administrative du document a plus d’importance que sa future valeur historique, et que tenter de restreindre la reproduction du document est contreproductif. 
+
+Ensuite, Pascale a été impressionnée, voire intimidée, par le calendrier de conservation, qui était beaucoup plus élaboré que ce à quoi elle s’attendait, n’en ayant jamais consulté auparavant. Cet exemple a donné une idée de la quantité de catégories de documents pouvant exister dans une même organisation. Pascale s’est alors demandé si un calendrier de conservation pouvait vraiment tout prévoir, tout couvrir. Si un nouveau document ne correspond à aucune des catégories décrites dans le calendrier de conservation, est-ce qu’il faut le classer dans la catégorie qui s’en rapprocherait le plus ou ajouter un nouveau type de document dans le calendrier ? Si on juge, par exemple, qu’un document qui aurait normalement dû être détruit devrait plutôt devenir une archive historique, peut-on aller carrément à l’encontre du calendrier de conservation ? Il est aussi très possible que l’archiviste n’ait pas vraiment le temps d’évaluer les documents à la pièce. Taylor se demande également s’il est réaliste de penser que toutes les archives d’un organisme pourront être traitées par le calendrier de conservation. Est-ce même l’objectif ? Elle ajoute qu’il serait sans doute intéressant de mettre en place des procédures d’élagage qui responsabilisent chaque individu de l’organisation. 
+
+De son côté, Marine s’est d’abord questionnée sur la théorie des trois âges. Les archives deviennent définitives lorsqu’elles n’ont plus de valeur courante, ou de valeur « prévisible » ; cependant, peut-on vraiment prédire quelle sera la valeur historique future d’un document ? Ensuite, la frontière entre les documents actifs et semi-actifs lui semble plutôt poreuse. Est-ce courant de réactiver un dossier qui a déjà été envoyé au semi-actif ? Comme presque tous les documents existent dorénavant sous format numérique, l'opération doit être plus facile à effectuer qu’à l’époque où les documents semi-actifs étaient entreposés physiquement dans un dépôt à l’extérieur des bureaux principaux de l’organisation. Évidemment, de nos jours, il est quand même utile de conserver cette distinction entre l’actif et le semi-actif, pour économiser de la place dans les espaces physiques ou les serveurs numériques qui servent quotidiennement à l’organisation. Cependant, si on enlève les documents semi-actifs des serveurs servant aux activités courantes, se retrouvent-ils sur un autre serveur? Ce serveur est-il plus difficilement accessible ? Utilise-t-on le même serveur pour les archives semi-actives et les archives définitives? Marine s’est également fait la réflexion que, même si on ne conservait de façon définitive qu’environ 5 à 10 % des archives, cela représentait tout de même beaucoup de documents. Elle s’est demandé si la possibilité de manquer un jour de place, soit physique ou soit sur les serveurs informatiques, devait être prise en compte, et si le milieu archivistique réfléchissait aux enjeux écologiques que pouvait poser le fait d’accumuler des disques durs à l’infini. 
 
 ---
 
-## Sous-post 4
-Contenu du quatrième sous-post.
+## Séance 4
+Dans la première partie de cette séance, il a été question de l’archivistique en tant que discipline. L’attention de Marine s’est arrêtée sur la spécificité québécoise : l’approche intégrée privilégiée ici lui semble particulièrement intéressante pour le numérique, où les limites entre valeur primaire et secondaire ne sont pas si claires. Elle a hâte d’entendre Carol Couture à ce sujet, et d’apprendre comment cette approche a été mise en place. 
+
+Marine retient aussi la notion de neutralité des archives : les plans de classification et de conservation, qui semblent à première vue très rationnels, sont en fait déjà des interventions potentiellement orientées par certains biais. Au-delà de cette question de neutralité, il importe aussi en tant qu’archiviste de faire preuve d’une certaine ouverture :  tant mieux si des archivistes amateurs s’intéressent à la discipline et la pratiquent à leur manière, sans en maîtriser parfaitement les théories et applications. Tant mieux aussi si des communautés autochtones se réapproprient leurs archives selon leurs propres règles. L’important, c'est que les gens s’intéressent aux archives !    
+
+Nous avons assisté en deuxième partie de séance à la conférence de Virginie Wenglenski sur son parcours doctoral, que nous avons toutes les trois beaucoup appréciée. Taylor s’est particulièrement intéressée aux motivations personnelles de Mme Wenglenski et à la discussion sur l’apport de ce doctorat à son développement professionnel. Pascale s’est posé une question bien concrète : est-ce que la maîtrise en sciences de l’information, si on se spécialise en archivistique, apporte quelque chose de plus que le certificat en archivistique, si on exclut la possibilité d’écrire un mémoire durant la maîtrise ?  Elle n’est pas sûre de vouloir se lancer dans un doctorat un jour, mais la conférence lui a définitivement donné envie de faire de la recherche grâce aux archives. Elle s’est demandé si le doctorat était la seule possibilité d’effectuer de telles recherches ou si on pouvait retrouver ce genre de tâche dans certains emplois.  
+
+L’aspect auto-ethnographique du projet de Mme Wenglenski a rappelé à Taylor le principe de territorialité, selon lequel les archives devraient être gardées avec les personnes et communautés qui les ont créées. Cependant, lorsqu’elle pense au temps et aux ressources nécessaires pour l’entretien des archives, elle se demande à quel point les différents groupes non institutionnels sont équipés pour effectuer ce travail dans les archives historiques et courantes. Sans une bourse de recherche pour réanimer ces personnes perdues à l’histoire, quels outils sont disponibles pour entreprendre un travail généalogique aussi important ? 
+
+Enfin, une notion a particulièrement frappé Pascale : le lien entre archives et émotions. Des documents administratifs, quand ils sont la preuve du passage sur terre d’êtres chers ou quand ils racontent notre histoire, même s’ils peuvent sembler froids de prime abord, peuvent générer de vives émotions. 
 
 ---
 
-## Sous-post 5
-Contenu du cinquième sous-post.
+## Séance 5
+Les principaux sujets qui ont suscité notre intérêt lors de ce cours étaient la nature collaborative de l’archivistique ainsi que la grande quantité d'emplois et de lieux de travail qu’offre ce domaine. Marine a remarqué qu’on était finalement bien loin du cliché de l’homme à lunettes introverti, seul dans son local poussiéreux (tel qu’on peut le croiser dans la websérie La vie d’Archie !). La collaboration implique bien sûr ses propres défis. Selon M. Couture, l’archiviste doit se faire entendre dans les débats en amont et ne pas se contenter de déplorer après-coup qu’on ait pris les décisions sans lui. Pascale a particulièrement apprécié la présentation de l’AAQ. Sans avoir encore vraiment côtoyé d’archivistes pour le moment, elle a l’impression d’une belle communauté ouverte, axée sur la collaboration, et surtout sur l’accueil et le mentorat des petites nouvelles comme nous. 
+
+Taylor et Pascale ont toutes deux été agréablement surprises des différents postes et fonctions existant en archivistique. Taylor explique qu’elle devient de plus en plus consciente de la variété des responsabilités des archivistes au sein des organismes, mais aussi de l’importance des tâches effectuées par les techniciens en documentation et leurs gestionnaires. Elle se questionne sur la gestion de l’information dans les organismes à but non lucratif (milieu qui lui semble avoir un grand besoin dans ce domaine). Des lignes directrices existent-elles pour les aider à mieux organiser leurs documents et ainsi appuyer leurs activités communautaires ou de justice sociale ? Ces organismes dépendent de subventions gouvernementales qui requièrent des preuves documentaires des activités des OSBL.   
+
+Finalement, Pascale évoque le texte de Diane Baillargeon sur la déontologie du métier d’archiviste. Dans le texte, certaines situations décrites l’ont choquée : des situations, notamment, dans lesquelles des gens ont détruit des archives ou utilisé leurs connaissances de la loi à leur avantage de manière malhonnête, pour éviter de fournir des documents qui devaient servir de preuve pour une enquête. Attendre après une certaine date pour dépasser la période durant laquelle on a l'obligation de fournir les documents est un exemple de ce genre de pratiques malheureuses. Le texte lui a aussi fait réaliser le réel défi, pour les archivistes, de trouver un équilibre  entre la protection des données personnelles et l’accessibilité des archives. 
 
 ---
 
-## Sous-post 6
-Contenu du sixième sous-post.
+## Séance 8
+Contenu du sixième Séance.
 
 ---
 
-## Sous-post 7
-Contenu du septième sous-post.
+## Séance 9
+Nous avons apprécié d’avoir les retours d’expérience professionnelle d’Isabelle Dion, notamment au sujet de la création de documents. En théorie, l’archiviste ou le gestionnaire de documents devrait être impliqué dès le début du cycle de vie, pour choisir, en collaboration avec les équipes de son organisation, les meilleurs logiciels, les meilleurs formats. Les archivistes sont là pour sensibiliser les différents départements à l’importance de créer des documents pérennes. Dans la discussion sur les archives dans la vie de tous les jours, Pascale et Marine ont d'ailleurs évoqué une situation concrète qu’elles avaient connue dans leur ancien emploi, où un nouveau logiciel avait été implanté sans que l’on s’assure au préalable de pouvoir récupérer les anciens formats de fichiers !  
+
+L’archiviste peut aussi veiller à ce que demeure une certaine cohérence dans la manière de créer, de nommer, de classer les documents dès le départ : l’idée est de s’épargner du travail plus tard, tant pour l’archiviste que pour les employés des différents départements. Tout le monde peut ainsi plus facilement se retrouver dans les documents créés par un collègue absent, par exemple. Mais nous avons compris qu’il ne s’agissait pas d’une pratique courante dans les entreprises d’impliquer les archivistes dès la création des documents. Les employés peuvent avoir tout un choc lorsqu’ils ont l’impression qu'on met le nez dans « leurs » documents, « leur » classement (sans se rendre compte qu’en réalité, lesdits documents appartiennent à l’organisme). Mme Dion nous a fourni quelques arguments intéressants à opposer aux employés qui ne voient pas l’intérêt de telles règles, comme la facilité à se repérer et le danger de se trouver noyé dans une masse d’informations si on décide simplement de « tout garder ». 
+
+Toujours à l’étape de la création de documents, Pascale fait un lien avec notre cours d’informatique documentaire (SCI6005) et voit une opportunité de proposer aux employés des modèles de documents structurés : les employés pourraient remplir de tels documents de manière uniforme sans oublier d’informations. Travailler à inclure davantage la fonction de création dans les politiques archivistiques des organisations, selon elle, serait une avenue intéressante pour le futur de l’archivistique.  
+
+Marine a retenu la remarque de Mme Dion sur le fait qu’une description d’archive devrait servir en priorité les besoins des usagers qui vont être amenés à effectuer des recherches… et non les idéaux des archivistes. Tout comme en bibliothéconomie, les usagères et usagers sont (ou du moins, devraient être) au cœur de la réflexion.  
+
+Dans cette séance, nous avons découvert le côté plus « pratico-pratique » de l’archivistique : ses outils (instruments de recherche, normes, plan de classification, bordereau de versement…), ses pratiques, ses environnements (température des locaux, gestion de l’acidité, congélation des documents en cas de sinistre) … Jusqu’ici, nous restions beaucoup dans l’aspect de la discipline universitaire, avec beaucoup de concepts à définir. Taylor avait l’impression d’avoir construit petit à petit un casse-tête de l’archivistique, comportant de nombreuses pièces ; cette séance lui a permis de commencer à assembler les pièces. Elle va d'ailleurs sauvegarder les schémas vus dans le cours, qu’elle a trouvés particulièrement éclairants. Elle a également apprécié d’en apprendre davantage sur les politiques de gestion des archives : bien que celles-ci ne soient pas requises par la loi (contrairement au calendrier de conservation et au plan de classification), elles jouent un rôle essentiel dans l’établissement de directives et de politiques qui facilitent la gestion des documents d’un organisme.  
+
+Pascale conclut avec ce constat : chacune des fonctions archivistiques représente à elle seule un cours universitaire en entier ! Nous avons encore beaucoup à apprendre. 
 
 ---
 
-## Sous-post 8
-Contenu du huitième sous-post.
+## Séance 10
+Nous avons toutes été marquées par les exemples et les exercices pratiques présentés durant ce cours. Taylor a particulièrement apprécié les exemples des politiques de transfert ou d’élimination des documents. Elle ne s’attendait pas au niveau de détails que l’on pouvait trouver dans une procédure telle que celle du Transfert de documents papier élaborée par la Division des archives et de la gestion documentaire de l’Université de Montréal. En combinaison avec la description des étapes de l’analyse des besoins, Taylor a été sensibilisée à l’ampleur de la tâche en matière de création ou même de mise à jour de ces politiques et documents accompagnateurs (calendrier de conservation, plan de classification, etc.).  
+
+Marine a souligné qu’il y avait matière à se creuser la tête lorsqu’il s’agit de placer un document au bon endroit selon un plan de classification, bien qu’il s’agisse en théorie d'un outil très pratique et plutôt simple. Toute cette organisation demande beaucoup de réflexion, ainsi que de l’adaptation pour les usagers qui voient parfois ce genre de plans pour la première fois. Il y a tout intérêt à faciliter au maximum la vie des usagères et usagers : l’exercice n’allant déjà pas de soi pour nous après dix séances de cours d’archivistique, il est important de se mettre à la place d’une employée à qui on imposerait une telle classification. Pascale a mieux compris l’importance de la dénomination des dossiers : l’exercice a mis en lumière pour elle l’importance d’utiliser des termes significatifs en nommant les dossiers d’un plan de classification (ainsi que de décrire avec précision le contenu des dossiers). Parfois, dans l’exercice, la réponse était facile à trouver. D’autres fois, il y avait tellement de réponses possibles, lorsqu’on se fiait seulement aux noms des dossiers, qu’au final, la réponse n’était pas évidente. Pour créer un plan de classification dans lequel les employés d’une organisation pourront se retrouver, il est impératif de connaître leurs besoins et le jargon respectif de chaque département. 
 
 ---
 
-## Sous-post 9
-Contenu du neuvième sous-post.
+## Séance 11
+Contenu du neuvième Séance.
 
 ---
 
-## Sous-post 10
-Contenu du dixième sous-post.
+## Séance 12
+Contenu du dixième Séance.
 
 ---
 
-## Sous-post 11
-Contenu du onzième sous-post.
+## Séance 13
+Cette séance nous a réservé quelques surprises. Marine a trouvé intéressant, premièrement, d’apprendre que les archives définitives appartiennent au service d’archives et non à leur créateur. Faire don de ses archives est donc un acte lourd de symboles pour la personne donatrice. Ce cours a d’ailleurs permis de mettre en valeur un nouvel aspect du métier d’archiviste : la relation avec la personne dont on accepte le don. En tant qu’archiviste, il importe de bien se préparer avant une première rencontre et de se mettre au service de la personne, soit en répondant au mieux à son besoin, soit en la redirigeant vers un service plus approprié. 
+
+Marine a aussi été étonnée par le fait que le contenu des cours donnés à l’Université de Montréal se retrouve dans les fonds privés des professeurs, et non dans ceux de l’université. Concrètement, cela signifie qu’il n’existe pas automatiquement de traces, dans les archives de l’université, de ce qui a été enseigné en classe. Marine trouve cela tout de même étrange, étant donné que l’activité organique première d’une université est de donner des cours... 
+
+Pascale, de son côté, a retenu que les archivistes doivent parfois être de bons négociateurs : il faut bien connaître les politiques d’acquisition de notre service d’archives afin de cibler les fonds privés dont il serait pertinent de faire l’acquisition, puis établir un contact avec les potentiels donateurs afin de les informer de la possibilité de faire don de leurs fonds ainsi que de notre intérêt particulier envers leurs archives. Il est typique que les donateurs éprouvent de grandes émotions face à leurs archives personnelles. « Mes archives n’ont pas de valeur historique, mais l’idée de m’en défaire est plutôt pénible », écrit ainsi Pascale. Cette étape, pour un donateur, peut sans doute lui rappeler que sa vie tire à sa fin. Il faut donc rester conscient de tout cela, être patient et ne rien brusquer.  
+
+Finalement, dans le cadre de cet avant-dernier cours de la session, Taylor a lu l’article de François Cartier sur le traitement du fonds historique Armand-Frappier. Les éléments du texte qui l'ont le plus marquée ont été le choix stratégique des collaborateurs et la créativité de M. Cartier en réalisant le projet, et en agrandissant son impact. Le texte mettait en valeur une caractéristique importante de la gestion des archives définitives (en particulier), soit que dans le contexte d’abondance des documents historiques présentant des défis d’accès, il est nécessaire que les efforts pour décrire et promouvoir les archives historiques soient soutenus par des collaborateurs qui pourront eux aussi les promouvoir et augmenter leur impact. 
 
 ---
 
-## Sous-post 12
-Contenu du douzième sous-post.
+## Séance 14
+Les conférences qui sont venues clore cette session d’introduction à l’archivistique nous ont paru très complémentaires. Taylor a beaucoup apprécié que les deux intervenantes évoquent les diverses possibilités d’emplois en archivistique, mais aussi en bibliothèque. Elle aurait aimé entendre ce genre de perspective dès le début de sa maîtrise : en effet, le programme lui avait donné l’impression d’une séparation stricte entre archivistique et bibliothéconomie, mais en réalité, bien qu’il existe des différences entre les deux disciplines, elles partagent tout de même beaucoup de caractéristiques. Il est par ailleurs envisageable de passer de l’une à l’autre au cours d’une carrière. 
+
+Au-delà de l’opposition archivistique/bibliothéconomie, nous avons toutes les trois retenu du partage de Mylène Bélanger qu'il était tout à fait possible d’explorer différents domaines durant sa carrière. Même en ayant une préférence pour une facette du métier, nous ne sommes pas obligées de « choisir » entre archives historiques et archives courantes, par exemple. Les deux conférencières ont mentionné que chaque apprentissage comptait, aussi bien notre parcours en archivistique que nos expériences accumulées par le passé. Cet élément a d'ailleurs particulièrement parlé à Pascale. Dans la maîtrise en sciences de l’information, nous croisons des gens qui ont déjà un certificat en archivistique ou de l’expérience en bibliothèque, en éducation, en informatique, etc. Pascale se sent parfois impostrice et se demande si elle arrivera à « rattraper son retard ». Elle commence à réaliser que son expérience professionnelle est parfaitement valable et pourrait même lui être utile si elle travaille en archivistique. Après tout, nous pouvons apporter notre personnalité, notre grain de sel à la manière de traiter les documents d’une organisation. Dès lors que nous pouvons proposer et « vendre » différents projets à nos supérieurs, nous avons des chances de trouver des projets qui nous animent, peu importe le domaine dans lequel nous travaillons. Chacune de nos expériences sera enrichissante à sa façon et nous fera apprendre, que ce soit sur la profession, ses techniques et ses outils, sur la spécialité de l’organisation ou sur nous-mêmes.  
+
+Pascale apprécie également l’idée de continuer à apprendre durant toute sa carrière, et ce sur des domaines extrêmement variés, en fonction du lieu de travail. Elle trouve très motivant de devoir apprendre à connaître à fond une organisation et son domaine d’opération. L’ampleur de toutes ces nouvelles compétences à maîtriser peut aussi donner le tournis ! Cela a été le cas pour Marine, qui a été impressionnée par toutes les connaissances techniques de Sylvie Thibault, aussi bien en gestion de l’information que dans le fonctionnement d’Hydro-Québec. 
+
+Nous constatons qu’il reste beaucoup de défis dans le domaine de l’archivistique et qu'il pourrait nous arriver, en tant que professionnelles, de démarrer des projets de zéro dans des organisations. Cela aussi suscite en nous à la fois crainte et motivation. Pascale aimerait beaucoup travailler à rendre une organisation plus efficace dans sa gestion de l’information, par exemple. 
 
