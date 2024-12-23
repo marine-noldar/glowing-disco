@@ -13,7 +13,6 @@ Voici les retranscriptions de nos quatre discussions.
 - [Sous-post 3](#sous-post-3)
 - [Sous-post 4](#sous-post-4)
 
-
 ---
 
 ## Liens entre l'archivistique et la vie de tous les jours
