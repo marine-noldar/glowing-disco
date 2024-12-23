@@ -7,10 +7,12 @@ Voici les retranscriptions de nos quatre discussions.
 # Post principal
 
 ## Table des matières
-- [Liens entre l'archivistique et la vie de tous les jours](#liens-entre-l-archivistique-et-la-vie-de-tous-les-jours)
-- [Les défis de l'archivistique](#les-defis-de-l-archivistique)
+
+- [Liens entre l'archivistique et la vie de tous les jours](#liens-entre-larchivistique-et-la-vie-de-tous-les-jours)
+- [Les défis de l'archivistique](#les-defis-de-larchivistique)
 - [Sous-post 3](#sous-post-3)
 - [Sous-post 4](#sous-post-4)
+
 
 ---
 
