@@ -1,6 +1,6 @@
 ---
 title: "Nous embarquons"
-date: 2024-09-01
+date: 2024-09-09
 ---
 Nous embarquons chacune dans ce cours d’archivistique avec un bagage différent. 
 
