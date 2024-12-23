@@ -16,7 +16,7 @@ Voici les retranscriptions de nos quatre discussions.
 ---
 
 ## Liens entre l'archivistique et la vie de tous les jours
-# Retranscription de la conversation
+(temporaire)
 
 ## Marine : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
