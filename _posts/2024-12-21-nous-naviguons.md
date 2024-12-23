@@ -1,9 +1,7 @@
 ---
 title: "Nous apprenons à naviguer"
-date: 2024-09-07
+date: 2024-09-16
 ---
-Insérer ici les 12 cours.
-
 ## Table des matières
 - [Séance 1](#Séance-1)
 - [Séance 2](#Séance-2)
