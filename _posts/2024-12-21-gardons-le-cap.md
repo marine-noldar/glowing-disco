@@ -155,7 +155,8 @@ Voici les retranscriptions de nos quatre discussions.
 
 ---
 
-## Les défis de l'archivistique (temporaire)
+## Les défis de l'archivistique
+(temporaire)
 ## Marine : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
