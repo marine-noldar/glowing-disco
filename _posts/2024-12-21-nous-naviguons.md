@@ -13,7 +13,7 @@ Insérer ici les 12 cours.
 - [Séance 8](#Séance-8)
 - [Séance 9](#Séance-9)
 - [Séance 10](#Séance-10)
-- [Séance 11(#Séance-11)
+- [Séance 11](#Séance-11)
 - [Séance 12](#Séance-12)
 - [Séance 13](#Séance-13)
 - [Séance 14](#Séance-14)
