@@ -3,18 +3,18 @@ title: "Nous apprenons à naviguer"
 date: 2024-09-16
 ---
 ## Table des matières
-- [Séance 1](#Séance-1)
-- [Séance 2](#Séance-2)
-- [Séance 3](#Séance-3)
-- [Séance 4](#Séance-4)
-- [Séance 5](#Séance-5)
-- [Séance 8](#Séance-8)
-- [Séance 9](#Séance-9)
-- [Séance 10](#Séance-10)
-- [Séance 11](#Séance-11)
-- [Séance 12](#Séance-12)
-- [Séance 13](#Séance-13)
-- [Séance 14](#Séance-14)
+- [Séance 1](#séance-1)
+- [Séance 2](#séance-2)
+- [Séance 3](#séance-3)
+- [Séance 4](#séance-4)
+- [Séance 5](#séance-5)
+- [Séance 8](#séance-8)
+- [Séance 9](#séance-9)
+- [Séance 10](#séance-10)
+- [Séance 11](#séance-11)
+- [Séance 12](#séance-12)
+- [Séance 13](#séance-13)
+- [Séance 14](#séance-14)
 
 ---
 
