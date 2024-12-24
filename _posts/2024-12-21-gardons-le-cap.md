@@ -72,6 +72,8 @@ Voici les retranscriptions de nos quatre discussions.
   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
  De ce que je comprends, c’est qu’il s’agit d’une archive pour Radio-Canada, par exemple. Parce que dans les fonctions organiques de Radio-Canada, il y a la production de téléjournaux. Donc, tout ce que Radio-Canada décide de garder, ça devient ses archives. En revanche, dans l’absolu, ce ne sont pas forcément des archives. 
+  </div>
+</div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
