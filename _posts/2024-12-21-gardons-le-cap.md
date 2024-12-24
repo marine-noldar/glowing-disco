@@ -1745,7 +1745,7 @@ Voici les retranscriptions de nos quatre discussions.
 
 ---
 
-## Nos expériences d'apprentissages
+## Nos expériences d'apprentissage
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
