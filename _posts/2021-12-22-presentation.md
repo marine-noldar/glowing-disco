@@ -1,6 +1,6 @@
 ---
 title: "Qui sommes-nous ?"
-date: 2024-12-22
+date: 2024-10-31
 ---
 Cette section n'était pas demandée dans les consignes, mais nous avons choisi de retranscrire ici un moment de notre conversation où nous avons pris le temps de nous présenter.
 
