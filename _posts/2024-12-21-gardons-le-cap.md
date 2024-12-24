@@ -9,7 +9,7 @@ Voici les retranscriptions de nos quatre discussions.
 - [Liens entre l'archivistique et la vie de tous les jours](#liens-entre-larchivistique-et-la-vie-de-tous-les-jours)
 - [Les défis de l'archivistique](#les-défis-de-larchivistique)
 - [Nos expériences d'apprentissage](#nos-expériences-dapprentissage)
-- [Sous-post 4](#sous-post-4)
+- [Notre futur en archivistique et le futur de l'archivistique](#notre-futur-en-archivistique-et-le-futur-de-larchivistique)
 
 ---
 
@@ -2987,6 +2987,224 @@ Voici les retranscriptions de nos quatre discussions.
 
 ---
 
-## Sous-post 4
-Contenu du quatrième sous-post.
+## Notre futur en archivistique et le futur de l'archivistique
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Aujourd’hui, on s’est dit qu’on parlerait des emplois qu’on se verrait occuper en archivistique, comment on voit l’avenir, l’avenir de la discipline aussi. Moi, j'ai vraiment eu la piqûre de l'archivistique pendant cette session. Ce n’était pas à ça que je me destinais au début... Même là, je ne le sais pas encore, je n’en suis qu’à ma première session. Mais ça m'a vraiment plu. Là, j'ai vraiment envie d'aller plus dans la pratique. On a vu beaucoup de théorie, mais on dirait que ça me donne envie d'aller dans des cours un peu plus pointus et de faire des interventions archivistiques dans des milieux. Ça me plairait bien de faire ça. J'ai vraiment découvert l'univers des documents actifs, en fait: aller directement dans les entreprises pour faire des plans de classification, faire des interventions archivistiques, à la fois pour aider les gens à s'organiser, mais aussi en prévision du futur, pour laisser une mémoire de ce qui a été fait, pour laisser une trace. Sinon, il y a aussi l'univers de la gestion de l'information, la gestion de données, l'intelligence de la donnée. Il y a tout cet aspect stratégique aussi qui a été vu pendant la conférence de Dominique Maurel. J'ai trouvé ça super intéressant, et en même temps intimidant... C'est un univers qui a l'air assez complexe, je ne me sens pas encore assez compétente pour aller là-dedans, ce qui est normal. Je n’ai suivi qu’un cours d’introduction à l’archivistique. Donc, oui, ce que je trouve chouette, c'est qu'il a l'air d'y avoir quand même beaucoup de possibilités. Que tu travailles dans les archives historiques d'une petite société d'histoire en région, ou bien que tu travailles pour Hydro-Québec pour y faire de la gestion de données, ce sont des emplois complètement différents. Donc, j'ai l'impression qu'on a le choix, quand même, peut-être pas directement en sortant de l'université, mais il existe quand même une variété d'emplois qui peuvent s'offrir à nous si on veut travailler là-dedans. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Une des conclusions à laquelle j'arrive après ce cours, c'est vraiment qu'il y a beaucoup, beaucoup de possibilités en archivistique. Moi, je ne suis pas dans ma première session, je suis environ aux trois quarts de mon cheminement. Je pensais que ce cours serait juste un passage obligé, j'avais déjà un peu décidé d’aller travailler en bibliothèque. Mais finalement, ça m'a vraiment ouvert à l'idée de travailler possiblement dans quelque chose qui serait un mélange des archives et de la bibliothéconomie. C'est sûr que moi, la gestion documentaire, ça ne m’intéresse tellement pas! Tout ce qui est actif, c'est ça que j'avais fait, dans le fond, au gouvernement. C'était de la gestion documentaire. Puis j'étais comme: "Ah, je trouve ça tellement plate!" Mais avec une meilleure base, maintenant, je vois aussi qu'il me manquait un peu d'informations quand je me suis créé cette idée-là. Mais surtout, ce qui a été dit dans les conférences de la dernière semaine, que tu peux travailler en archivistique et en bibliothèque en même temps, ç’a été vraiment intéressant. C'est définitivement quelque chose que je vais vouloir explorer. Par exemple, un rôle de bibliothécaire qui toucherait peut-être à une bibliothèque numérique pour la Ville ou les archives de la Ville, ou encore un rôle d’archiviste qui aurait un lien avec les bibliothèques comme on l’a vu dans la conférence de Mylène Bélanger, qui avait un projet avec l'Association des bibliothèques publiques du Québec. Dans le fond, ce qu’elle a expliqué, c’est qu'elle avait fait le certificat en archivistique. Puis, pendant qu'elle faisait le certificat, elle a eu un emploi à la bibliothèque de Brossard. Ils développaient une bibliothèque numérique pour les photos, mais c'était à la bibliothèque. Son contrat suivant, ç’a été avec l'Association des bibliothèques publiques du Québec. Je trouve ça drôle: c'est la dernière semaine, puis on dirait que c'est comme un petit pitch pour dire: " Hé, même si tu n’as pas trouvé ça super intéressant, tu sais, ça ouvre des portes, l'archivistique!" Même si tu es en archivistique, tu peux travailler en bibliothèque, mais le contraire n’est pas nécessairement vrai.
+</div>
+</div>
+
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, moi aussi, ça m'avait marquée, dans la conférence de Sylvie Thibault, quand elle a évoqué ça. Si tu fais ta maîtrise en prenant juste le minimum de cours d'archivistique, tu pourras juste être bibliothécaire, alors que tu pourrais faire ton parcours de maîtrise en ciblant plus les cours d'archivistique et tu pourrais quand même être engagée en bibliothèque. C’est parce que le début du cursus de maîtrise, en tout cas ici à l'UdeM, est vraiment orienté sur la bibliothéconomie. Donc, peu importe ce qu’on choisit, on a quand même une base là-dedans qui nous permettrait de peut-être décrocher un emploi, même si on ne fait que de l'archivistique dans le reste de nos cours. Ça, je trouve que c'est vraiment bon à savoir. Je me dis qu’à moins de ne vraiment pas être intéressé par l'archivistique... Je sais que c'est le cas de sûrement pas mal de gens, mais si tu as un minimum d'intérêt, je trouve que ça vaut la peine de pousser un peu plus loin et de prendre des cours là-dedans, parce que ça ouvre plus de portes, à mon avis.
+Tu parlais d'une collection numérique ou de données numériques qui devait être gérée à la bibliothèque, et ça, c'est quelque chose que j'ai découvert aussi dans le cours: l’informatique et l’archivistique, c'est deux choses qui peuvent vraiment bien aller ensemble, puis moi, je sais que c'est quelque chose qui m'intéresse, tout ce qui est informatique documentaire, intelligence artificielle, nouveautés technologiques... C'est quelque chose qui me fait quand même triper, j'ai l'intention de continuer à prendre des cours là-dedans. D'ailleurs, la session prochaine, je me suis inscrite au cours de curation et archéologie numérique. C’est pour apprendre à récupérer des fichiers qui sont sur des supports informatiques obsolètes, comme des disquettes, des vieux CD-ROM, des vieux systèmes d'exploitation et tout. J'aime vraiment ça, donc j'espère que ça va continuer de m'intéresser et qu’il y a des emplois là-dedans. On est loin des vieux livres poussiéreux, ça peut être assez technique et technologique, en fait. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, moi, en partant, je savais que les archives, ça m'intéresserait. Avant de venir dans le programme, j'avais même contemplé l’idée d’aller en archivistique médicale, donc je savais déjà que les archives, ça pouvait être des archives courantes, actives: les archives médicales, c'est exactement ça, c'est-à-dire des dossiers de patients que tu mets à jour. Tout le volet dont parlait Marine, la gestion des données numériques, le records management, ça, j'y avais déjà un peu touché dans mon ancien emploi sans le savoir, et c'est quelque chose qui m'intéressait déjà. Lors de la conférence de Dominique Maurel, j'ai fait des liens dans ma tête. La même semaine (c'est une petite anecdote), j'ai croisé un gars que je connais lors d’un événement. Il m'a demandé dans quoi j’étudiais. J'ai essayé d'expliquer, tu sais, parce que ce n'est pas facile à expliquer, puis il a dit: "Ah, tu veux faire quoi avec ça?" J'ai répondu: "Bien, probablement de l’archivistique ou de la gestion de documents actifs". Quand j'ai expliqué ce que c'était, il était comme: "Oh, mon Dieu, viens travailler pour moi!"  J’ai réalisé à quel point le besoin était criant dans certains milieux, puis dans certaines entreprises… Par exemple, si quelqu'un tombe malade dans une entreprise et doit quitter, et qu’on n'a pas enregistré tous ses savoirs, toutes ses connaissances en lien avec son travail, eh bien, c'est perdu. J’ai réalisé l'importance de ça. Je le savais déjà, mais de l'entendre dire par des professeurs qui connaissent ça plus que moi, ça vient valider l'idée que j'avais au départ de l'importance de la gestion des documents. L'autre chose qui a plus été une découverte pour moi, qui m'intéresse beaucoup, c'est la diffusion des archives. Avec la conférence qu'on a eue à la…
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Au Congrès des professionnels de l'information.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, celle de Radio-Canada, la diffusion des archives historiques grâce à Facebook et les autres réseaux sociaux (Caron et Robillard, 2024). Ça, j'ai fait comme: "Ah, mon Dieu, je veux faire ça, c'est tellement cool!" Et en même temps, je savais que les archives audiovisuelles, ça me parlait un peu plus avec le bagage que j'ai déjà. Il y a encore plus d'avenues que je pensais. Si jamais je ne peux pas aller au niveau de l'audiovisuel, je sais qu'il y a tellement d'autres choses à côté.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, il y a beaucoup d'options. Moi, quand je préparais mes applications pour le programme de maîtrise, j’ai mis l’accent sur mon expérience de stage pour un organisme à but non lucratif orienté vers l'éducation sexuelle. Le stage était désastreux, pas parce qu'on n'avait pas travaillé fort ou qu’on n’avait pas atteint nos objectifs, mais parce que de leur côté, pour nous donner accès à des documents, ça prenait des semaines, ils ne répondaient pas à nos courriels, il n'y avait aucune organisation des projets. Donc, à chaque fois qu’on avait des questions ou des recherches à faire, c'était comme: "Finalement, c'est Julie qui a ça, mais Julie est en congé maladie pendant deux semaines, il va falloir que tu attendes qu'elle revienne. En attendant, je t'envoie les courriels qui parlent des documents que tu cherches." Et c'est une chaîne de 20 courriels qui ne contiennent aucune information utile. C’était un enjeu que je connaissais déjà un peu en arrivant, et je me disais que ça m’intéressait beaucoup. Mais je me suis rendu compte que c'était plus l'aspect de l'éducation sexuelle qui m’intéressait, pas tellement le fait de gérer des documents. Je pense que si, dans le futur, je devais faire de la gestion documentaire, il faudrait que ce soit pour un organisme ou avec une cause qui me tient déjà beaucoup à cœur et auquel on ajouterait l’aspect de gestion documentaire.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, et j'imagine que tu préfèrerais travailler dans un endroit où il y a déjà un minimum d'organisation. J'avoue que ç’a l'air laborieux, comme tu le décris, une chaîne de courriels. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C’était ridicule! Mais j'ai appris que les organismes étaient mal organisés et que, dans le fond, c'était important, le travail des personnes qui font de la gestion documentaire. Surtout quand tu fais des demandes de financement, il faut que ça soit bien organisé, et quand tu ne l'es pas, tu dois faire deux fois la quantité de travail pour le même résultat. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, c'est clair.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Pour ce qui est de l’avenir de l’archivistique, si j'avais des projets de recherche ou des projets à développer, il y a deux choses que j’aimerais explorer. En fait, les deux touchent au collaboratif. Le fait que les organismes partagent entre eux leurs manières de faire, c’est essentiel. Je n’ai jamais vu, à date, un seul organisme dire: "Chez nous, tout roule parfaitement au niveau de la gestion documentaire." Je n'en ai pas encore entendu une seule. Peut-être que ça existe, mais j'en doute. Nous avons écouté une conférence, pour le cours SCI6005, de Dominic Boisvert. Il a fondé une entreprise privée, collaborative, en archivistique. Ils ont essayé plein de choses pour enregistrer, pour partager leurs informations entre eux. Même eux, ils se donnaient des objectifs et n'étaient pas toujours capables d'y arriver. Donc, la mise en place de procédures de gestion documentaire, c'est clairement difficile. Alors, je trouve que c'est important, si quelqu'un a une idée de génie, de la partager et dire: "Voici ce qu'on a testé, voici ce qui a marché, voici ce qui n'a pas marché", pour que les autres puissent essayer la même chose au sein de leur propre entreprise. Bref, avoir une espèce de canal de discussion regroupant des gestionnaires de documents pour partager des idées, je trouve que c'est important.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, c'est clair. Mais chaque contexte est différent aussi. Ce n'est pas parce qu'une méthode a marché pour ton entreprise que ça va marcher dans une autre, mais c'est vrai que ça vaudrait la peine d'avoir au moins accès à des retours d'expérience. Ça ferait gagner du temps, j'ai l'impression. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Là, on a un journal de bord, dans lequel on écrit nos apprentissages. Mais juste de documenter le processus, toutes les étapes que tu as faites, tous les problèmes que tu as rencontrés… Tu finis par faire de la documentation sur la gestion documentaire, ça devient méta! Tu prends des notes sur ta démarche de gestion documentaire. Tu es aussi soutenu par toute la documentation sur les principes et les valeurs de l'organisme, puis les méthodes qu'ils vont utiliser. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Tout en t'assurant de rester efficace, parce que, justement, dans la conférence, Dominic Boisvert disait qu'à un moment donné, il avait essayé avec une autre de ses collègues de tenir à jour les connaissances de la compagnie en les extrayant de leur plateforme de clavardage. Ils essayaient de tenir ça à jour en disant: "Il y a des connaissances là-dedans, on veut les consigner quelque part." Finalement, il a fait ça pendant un an ou deux, je pense, mais il a fini par manquer de temps. Il disait aussi: "Pendant ce temps-là, je ne suis pas en train de travailler avec des clients, je ne suis pas en train de faire de l'argent." C'était une compagnie à but lucratif qui était là pour faire des profits. Même chez les professionnels de l'information, ce n'est pas évident. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Une autre chose que j’ai réalisée dans le travail de recherche sur les archives, en lien avec la collaboration: quand je me suis retrouvée avec des boîtes d’archives sans savoir sur quoi elles portaient (je savais que c'était la boîte sur la Santé publique, mais il n'y avait rien d’autre dans l’outil de recherche), j’ai pensé à l’importance d'inclure les usagers dans l'indexation. Je sais que les archivistes n'ont probablement pas le temps de d’éplucher toutes les archives existantes, donc ça serait peut-être une avenue intéressante d'impliquer les usagers dans l'indexation. En cherchant, par exemple, j'ai vu des documents qui se rapportaient à mon sujet dans lesquels il y avait le nom de l'architecte de l’hôpital auquel je m’intéressais. Juste d’ajouter une étiquette avec le nom de l’architecte... Si j'avais pu ajouter mon grain de sel sur les documents que j'ai consultés, ça aurait pu aider quelqu'un d'autre après. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, c'est ça. Je pense que cette question-là d'accessibilité aux usagers, ça rejoint à la fois la collaboration (parce que toi, par exemple, si tu avais pu rajouter une étiquette, ça aurait vraiment aidé) et l'avancement des technologies aussi, parce que l'intelligence artificielle va être capable de plus en plus de faire ça. Évidemment, il y a des limites, ce n’est pas parfait. Moi, je suis quand même optimiste pour l'avenir par rapport à cette question-là de l'accessibilité et de la découvrabilité. Je me dis qu’en remettant en question les pratiques (en laissant les usagers participer davantage) et d’évolution technologique, en paramétrant des outils pour qu'ils fassent une partie du travail pour nous... Je pense qu'il y a vraiment des avenues super intéressantes.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est une bonne transition pour notre petite discussion sur l’intelligence artificielle. J'ai trouvé ça vraiment intéressant de lire sur la reconnaissance de l'écriture manuscrite à l'aide des intelligences artificielles. À la base, c'est un logiciel qui existe, puis les intelligences artificielles l'améliorent. Elles permettent de traiter beaucoup plus de documents que le logiciel original. Ce sont des milliards de documents qui pourraient être transcrits, à partir de textes imprimés ou dactylographiés, en format numérique, comme les journaux historiques numériques qu'on voit dans la bibliothèque de BAnQ (Lessard & Marsan, 2024). On entend beaucoup parler des risques des intelligences artificielles et des manières dont il ne faut pas les utiliser. Je trouvais que c'était une solution tellement évidente et facile à l’enjeu d’accessibilité… Ce n'est pas comme si ça allait faire disparaître la recherche. Tu as quand même tout ton travail à faire, mais au lieu de passer 1000 heures à lire 34 documents du début à la fin pour trouver des mots-clés, tu as une technologie qui te permet de les trouver. Ensuite, tu peux vraiment te mettre plus rapidement à l'analyse. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je pense que ça ne peut que faire avancer la recherche parce que ça rend beaucoup plus de documents accessibles, tout simplement. Il y a une telle masse documentaire en ce moment qui n'est pas numérisée, qui est juste écrite à la main, donc difficilement lisible... Tu as autant de documents qui ne sont pas utilisés pour la recherche, ou très peu, alors que là, ça va pouvoir être exploité par beaucoup plus de gens. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça promeut vraiment la valeur de démocratisation de l'information qui fait partie des principes de BAnQ et de tous les organismes qui existent pour nous donner accès à l'information.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Wikisource, c'est un endroit où tu peux mettre des archives numérisées et leur transcription, à des fins de diffusion, justement. Donc, avec des outils qui permettent cette transcription, ça va permettre d'y aller avec des plus gros volumes, puis de rendre tout ça accessible gratuitement. En fait, moi, c'est la lacune principale que j'avais vue dans les instruments de recherche que j'avais utilisés aux archives de la Ville de Montréal.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, c'est ça. Ça manquait de précision quelquefois. Durant mon travail de recherche dans les archives, j'avais l'impression de me promener dans un labyrinthe, ce n'était pas très clair. Donc, si l'intelligence artificielle pouvait aider à améliorer ça, tout le monde en sortirait gagnant, à mon avis. Je voulais mentionner autre chose, à propos d’un article que tu nous as envoyé, Pascale. C'est un entretien sur le blogue de l’Association des archivistes du Québec (David, 2023). On entend souvent qu'un des dangers de l'intelligence artificielle, ce sont les biais. Vu qu'un modèle de langage a été entraîné sur un certain type de données, ça va refléter forcément certaines valeurs qui ne sont pas forcément favorables aux groupes les plus minoritaires, qui ne vont pas se retrouver dans les résultats. C'est un danger en archivistique, aussi, que ces biais-là soient répétés par l'intelligence artificielle dans la sélection de données ou dans l'indexation, etc. En revanche, ce qui était super intéressant dans l'article, c'est que ça disait qu'à l'inverse, on pouvait aussi paramétrer une intelligence artificielle pour qu'elle aille justement chercher les contenus des groupes minoritaires, qu'elle aille mettre l'accent là-dessus. Ça pourrait rendre l'archivistique plus équitable, plus égalitaire. Je n'avais jamais pensé à ça. Oui, l'intelligence artificielle peut être biaisée, mais on peut aussi, nous, la paramétrer pour lui donner certains biais favorables envers les groupes minoritaires. C'est une autre avenue qui est quand même excitante, je trouve. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça nous ramène à l'importance de tout ce qui est politique. Il faut se dire qu’on va étudier ces principes-là, ces politiques-là, pour ensuite déterminer comment on va paramétrer ces technologies afin d’effectuer notre travail comme on veut le faire, pour suivre les valeurs qu'on a établies. Il ne faut pas juste dire qu’on va réduire la main-d'œuvre pour l'organisme en général, et qu’on va avoir plus de résultats pour moins d'efforts. Il y a un grand effort quand même à faire pour évaluer ces technologies-là, s'assurer qu'elles atteignent les standards de qualité qu'on a établis. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Dans mon emploi actuel en sous-titrage vocal, je travaille avec une intelligence artificielle, avec la reconnaissance vocale. On a un travail d'entraînement à faire qui est constant avec cette technologie-là, parce que ce n’est pas une intelligence artificielle si intelligente que ça. Si on prend les homophones, "sept" et "cette", la machine va comprendre que dans l’expression "cette pomme", avec ces deux mots mis ensemble, il y a plus de probabilités que ce soit "cette" que "sept", parce qu'à l'entraînement, on lui a souvent dit de corriger pour "cette" devant "pomme". L'entraînement est constant, donc l'humain derrière est super important malgré tout. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je crois qu’il ne faut pas se poser comme victimes de l'intelligence artificielle, parce que souvent, les discours que j'entends, c'est beaucoup: "Ah mon Dieu, c'est la catastrophe!" Non seulement ça prend des humains, comme tu dis, Pascale, pour entraîner, corriger, mais ça prend des humains pour réfléchir à ce qu'on veut en faire aussi. Je pense que c'est une erreur de se dire que c'est quelque chose qui nous tombe dessus, comme une malédiction, et qu'on ne peut rien faire. Ce n'est pas vrai. En tant que professionnel, on peut vraiment décider comment on l'utilise.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ L'autre chose que j'avais trouvé intéressante, dans le même texte, c’était au niveau de la diffusion. Par exemple, l'intelligence artificielle peut voir ce qui a été consulté et dire: "Ah, tout ça n'a pas été consulté, on va le mettre de l'avant." C'est aussi intéressant pour la recherche de faire un roulement, justement, de mettre de l'avant ce qui est le moins vu. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Avoir une diffusion qui est plus équilibrée.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Exact. Parce que oui, on peut demander de prioriser des documents venant de populations minoritaires, mais on peut aussi demander de catégoriser les archives selon des populations et dire: "Je veux que tu montres 10 % de ça, 10 % de ça." Voire d’y aller aléatoirement, à la limite.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ À des fins de recherche, ça, c'est super intéressant. Étant donné les enjeux d’accessibilité aujourd’hui, dans toute la masse documentaire existante, sûrement que les chercheurs et les chercheuses se réfèrent tout le temps au même pourcentage de documents, et que tout le monde commente un peu le même corpus. Alors que là, ça va être vraiment élargi. Je vois le potentiel, en tout cas, que les connaissances soient vraiment augmentées et diversifiées. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Je ne sais pas si c'est le cas pour les outils de recherche archivistique, mais les outils de découverte pour une bibliothèque, c'est souvent priorisé selon ce qui est le plus consulté.  C’est ce qui va apparaître en premier. Comment renverser cette dynamique-là pour promouvoir l'information qui est peut-être aussi valable, mais qui est plus cachée? Pour le moment, on a des outils de recherche qui sont paramétrés pour nous montrer ce qui a déjà été consulté. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je vais peut-être proposer une petite conclusion. Je vais aller chercher ce que j'ai noté de la conférence de Dominic Boisvert, parce qu'il résumait bien ce qui s’en venait, selon lui, en archivistique. D’abord, il a évoqué les données ouvertes: de plus en plus, on exige des organismes publics d'ouvrir leurs données au public. Ensuite, des renseignements personnels qui sont mieux protégés. Plus d'automatisation, aussi, et ça, ça va se faire probablement à l'aide de l'intelligence artificielle. Ensuite, des logiciels de micro-services qui permettent de créer des chaînes procédurales et de s'assurer d'avoir toujours un service à jour au travers des autres services. En fait, il parlait beaucoup de boîtes à outils: des logiciels qui contiennent tellement d'outils que ce n’est pas évident à mettre à jour. C'est comme une grosse caisse pleine d'outils versus un petit couteau suisse qui va être mis à jour beaucoup plus régulièrement parce qu'il y a moins de fonctionnalités à l'intérieur. Et enfin, la virtualisation et l'émulation: ça va être plus au niveau de la diffusion, justement, pour rendre les archives virtuelles.
+</div>
+</div>
+
+
 
