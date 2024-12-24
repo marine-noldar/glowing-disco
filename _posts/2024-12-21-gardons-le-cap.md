@@ -975,834 +975,772 @@ Voici les retranscriptions de nos quatre discussions.
 ---
 
 ## Les défis de l'archivistique
-(temporaire)
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Avec Pascale, on a assisté au Congrès des professionnels de l’information la semaine dernière, et plusieurs conférences abordaient le facteur humain. À la BAnQ, ils ont monté tout un projet qui s'appelle « Cordonnier bien chaussé », pour revoir en fait toute leur gestion de l'information, toute leur gestion de documents. Sachant que ce sont quand même les archives nationales, la bibliothèque nationale, ce serait bien qu'eux-mêmes soient bien organisés dans leurs affaires ! Donc ils ont entrepris tout ce projet-là, puis ils ont décidé d'utiliser l'environnement Microsoft 365 et de tout passer sur Teams. Puis ça a amené son lot de complications, ça a été long, ardu, il y a eu plusieurs étapes. Ça m'a vraiment fait prendre conscience du fait qu'il ne suffit pas de se lever un matin en disant : « Bon, bien, on va tout organiser de telle ou telle façon. » Il faut parler avec les employés, il faut que toutes les personnes concernées soient impliquées dans le projet. Parce que si tu fais ça tout seul dans ton coin, les gens vont paniquer, puis ça ne va jamais marcher. Donc oui, gros facteur humain ici, puis importance de la gestion du changement aussi : ne pas se contenter d’imposer ton changement à ton équipe. Ça rejoint un peu ce qu'on voyait dans le cours d'informatique, le SCI6005 (que tu ne suis pas cette session, Taylor). C'est un cours d’informatique documentaire. On a parlé un peu de ça : si tu veux que ta technologie soit utilisée, il faut que les humains embarquent, donc il faut vraiment s'intéresser à cet aspect-là. Les archivistes ou gestionnaires des documents ne devraient pas rester dans leur coin à prendre des décisions.
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Avec Pascale, on a assisté au Congrès des professionnels de l’information la semaine dernière, et plusieurs conférences abordaient le facteur humain. À BAnQ, ils ont monté tout un projet qui s'appelle "Cordonnier bien chaussé", pour revoir toute leur gestion de l'information, la gestion de leurs documents (Gendron et L’Heureux, 2024). Sachant qu’il s’agit quand même des Archives et de la Bibliothèque nationales, il serait bien qu'eux-mêmes soient organisés dans leurs affaires! Ils ont donc décidé d'utiliser l'environnement Microsoft 365 et de tout passer sur Teams. Ç’a amené son lot de complications et ç’a été long et ardu. Il y a eu plusieurs étapes. Ça m'a vraiment fait prendre conscience du fait qu'il ne suffit pas de se lever un matin en disant: "Bon, bien, on va tout organiser de telle ou telle façon." Il faut parler avec les employés, il faut que toutes les personnes concernées soient impliquées dans le projet. Parce que si tu fais ça tout seul dans ton coin, les gens vont paniquer et ça ne va jamais marcher. Donc oui, il y a un gros facteur humain dans la gestion du changement. Il ne faut pas se contenter d’imposer un changement à son équipe. Ça rejoint un peu ce qu'on voyait dans le cours d'informatique, le SCI6005 (que tu ne suis pas cette session, Taylor). C'est un cours d’informatique documentaire. On a parlé un peu de ça: si tu veux que ta technologie soit utilisée, il faut que les humains l’approuvent, donc il faut vraiment s'intéresser à cet aspect-là. Les archivistes ou les gestionnaires des documents ne devraient pas rester dans leur coin à prendre des décisions.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Surtout quand on parle de gestion documentaire, ce n'est pas comme dans le contexte d’archives historiques, où ton usager, c'est quelqu'un qui n'est pas nécessairement un professionnel, qui va utiliser les documents pour un travail, ou souvent, c'est juste pour s'informer. Mais quand on parle de tous les documents qu'un organisme national ou gouvernemental utilise à tous les jours puis la manière que ces usagers-là qui sont les professionnels dans ces organismes-là, ils utilisent leurs documents… Les bonnes et les mauvaises façons dont ils utilisent leurs documents, il faut que tu comprennes tout ça. Il faut que tu saches, la personne qui est là depuis 20 ans, disons, puis qui a toujours gardé tout sur 17 clés USB, comment on gère ces documents-là. Puis aussi, il n'y a pas vraiment de test. C'est sûr qu'il y a des procédures que tu peux faire pour faire des tests, des essais avec, disons Teams, si c'est le logiciel que tu veux utiliser ; mais tu ne sais pas vraiment de quoi ça va avoir l’air jusqu’à tant que tu t'embarques dedans. Puis là, tu te rends compte des trous qui vont apparaître dans tout le programme de gestion documentaire de l'organisme. Surtout quand tu parles de Bibliothèques et Archives Canada, qui devrait être l'exemple à suivre, le plus contrôlé dans le milieu de la gestion documentaire ! Ils embarquent dans un projet qui est tellement grand, mais aussi qui laisse tellement de questions ouvertes. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Quand on gère des archives historiques, l’usager, qui n'est pas nécessairement un professionnel, va utiliser les documents pour un travail ou juste pour s'informer. Mais quand on parle de tous les documents qu'un organisme national ou gouvernemental utilise tous les jours et de la manière dont les usagers, qui sont alors les professionnels travaillant dans ces organismes-là, utilisent leurs documents, c’est différent. Il faut comprendre les bonnes et les mauvaises façons d'utiliser les documents dans cette organisation. Il faut que tu saches que telle personne, qui est là depuis 20 ans, garde tout sur 17 clés USB. C'est sûr qu'il y a des procédures que tu peux effectuer des tests, des essais avec Teams, si c'est le logiciel que tu veux utiliser, mais tu ne sais pas vraiment de quoi ça va avoir l’air jusqu’à tant que tu t'embarques vraiment dedans. C'est à ce moment que tu te rends compte des trous qui apparaîtront peut-être dans le programme de gestion documentaire de l'organisme. Ici, on parle de Bibliothèques et Archives Canada, qui devrait être l'exemple à suivre, le plus contrôlé dans le milieu de la gestion documentaire! Ils s’embarquent dans un projet qui est tellement grand, mais qui laisse aussi tellement de questions ouvertes.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">C'est un peu ça, le « cordonnier bien chaussé », dans le sens qu'on est un organisme qui doit donner l'exemple dans ce genre de migration-là. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ C'est un peu ça, "Cordonnier bien chaussé". Ils étaient conscients qu’ils représentaient un organisme qui doit donner l'exemple dans ce genre de migration-là.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Puis on voit qu'eux ont de la difficulté déjà, donc imagine les autres entreprises ou organismes qui n'ont même pas cette valeur de la gestion de l’information au cœur de leur mission d'entreprise. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Et ils ont de la difficulté, donc imagine les autres entreprises ou organismes qui n'ont pas cette valeur de gestion de l’information au cœur de leur mission d'entreprise.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Exactement. Eux, leur stratégie, c'était de commencer avec les ressources humaines, en se disant qu'il y avait un gros défi au niveau de la protection des données, parce qu’ils ont toutes les informations des employés. Ils se sont dit : « On va commencer directement avec ça, comme ça on va voir déjà dès le départ ce qui fonctionne, ce qui ne fonctionne pas avec Teams. Parce que si on commence par un département qui est plus facile puis qu'on arrive plus tard aux ressources humaines, puis qu'on se rend compte que ça ne fonctionne pas, il faut tout recommencer du début. » En plus, les RH, c'est surtout des gestionnaires. Donc ils sont allés directs dans une équipe de gestion qui va être en mesure ensuite de promouvoir ce projet-là auprès des autres employés, des autres départements. Vraiment, la stratégie a été réfléchie, mais quand même, malgré tout, la gestion du changement, c'est comme… Tu viens froisser le « C'est comme ça qu'on fonctionne ». « Je veux aller chercher mon document là, mais il n’est plus là, ça me dérange ! » D’où la nécessité de, comment dire, d'expliquer l'importance de ce genre de changement-là, puis de s’assurer d’avoir une manière de fonctionner homogène. Il faut pouvoir expliquer à tout le monde pourquoi c'est important et donner de la formation – ça, on en a déjà parlé au dernier cours. Isabelle Dion l’avait dit : « Ça, c'est ce qu’il y a de plus compliqué. » Si la BAnQ n’est même pas capable de faire ça, imagine ! 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Exactement. Leur stratégie, c'était de commencer avec le département des ressources humaines, en se disant qu'il y avait là un gros défi au niveau de la protection des données, parce qu’ils conservent toutes les informations des employés. Ils se sont dit: "On va commencer directement avec ça, comme ça, on va voir dès le départ ce qui fonctionne et ce qui ne fonctionne pas avec Teams. Parce que si on commence par un département qui est plus facile, que tout fonctionne, puis qu'on arrive plus tard aux ressources humaines et qu'on se rend compte que ça ne fonctionne pas avec ce département plus difficile, il faudra tout recommencer du début." En plus, aux ressources humaines, il y a surtout des gestionnaires. Ils sont donc allés directement dans une équipe de gestion qui va être en mesure ensuite de promouvoir ce projet-là auprès des autres employés, des autres départements. La stratégie a vraiment été réfléchie, mais malgré tout, la gestion du changement, c'est difficile. Tu viens froisser les employés qui se disent: "C'est comme ça qu'on fonctionne. Je veux aller chercher mon document à cet endroit, mais il n’est plus là et ça me dérange!" D’où la nécessité de bien expliquer l'importance des changements apportés à tout le monde et de s’assurer d’avoir une manière homogène de fonctionner. Il faut également offrir de la formation. Tout ça, on en a parlé au dernier cours. Isabelle Dion avait dit qu’arriver à convaincre les gens, c'est ce qu’il y a de plus difficile à faire.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Justement, un poste de police, par exemple, ils ne sont pas là pour faire du classement. Je veux dire, ce n’est pas leur mission première, à la base. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Dans un poste de police, par exemple, ils ne sont pas là pour faire du classement. Ce n’est pas leur mission première, à la base.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Mais c'est tellement important qu'il y ait quelqu’un, un technicien en gestion documentaire pour les aider, puis soutenir leur travail. Moi, j'allais dire : oui, beaucoup de documents sont numériques, sont sur des machines, mais les gens qui les opèrent, ce n'est pas des machines. Tu ne peux pas juste lancer le programme et puis : « Hop, ça fonctionne ! » Il faut tenir les gens par la main. Moi aussi, je voudrais que quelqu'un soit là pour me soutenir. Si c'est un gros changement qui affecte vraiment comment je fais mon travail, c'est important qu'on me l'explique, que j'aie accès à l'information constamment, que j'aie des guides aussi, des documents qui sont créés par les gestionnaires en documentation pour m'aider, pour que je n'aie pas non plus à aller cogner à la porte, ou à envoyer un courriel, ou à avoir une rencontre Teams tous les jours pour comprendre les systèmes. Dans le fond, la vulgarisation de toutes ces notions-là, de ces règles-là, c'est une grande partie du travail. Chez BAnQ, ils n'ont pas parlé des sources d'informations qu'ils ont utilisées pour la préparation, la recherche pour le projet ? 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Mais c'est tellement important qu'il y ait quelqu’un pour les aider et soutenir leur travail. Beaucoup de documents sont numériques, se trouvent sur des machines, mais les gens qui les opèrent, ce ne sont pas des machines. Tu ne peux pas juste lancer le programme pour que ça fonctionne. Il faut tenir les gens par la main. Moi aussi, je voudrais que quelqu'un soit là pour me soutenir. Si c'est un gros changement qui affecte vraiment la manière d'effectuer mon travail, c'est important qu'on me l'explique, que j'aie accès à toute l'information, à des guides, des documents qui ont été créés par les gestionnaires en documentation pour m'aider, pour que je n'aie pas non plus à aller cogner à leur porte, à leur envoyer un courriel ou à lancer une rencontre Teams tous les jours pour comprendre les nouveaux systèmes. La vulgarisation de toutes ces notions-là, de ces règles-là, c'est une grande partie du travail. Chez BAnQ, ils n'ont pas parlé des sources d'informations qu'ils ont utilisées lors de leur préparation à ce projet?
+   </div>
 </div>
 
- ## Pascale : 
+ ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Non, la conférence était vraiment sur la gestion du changement. Ce qui était intéressant dans cette conférence, c'est que la personne en charge du projet de migration des  données vers Microsoft 365 était là avec… Je pense que c'était la cheffe des ressources humaines. Elle avait le point de vue d’une personne qui apprend comment ça fonctionne et qui n'a aucune idée de comment ça marche, et qui est peut-être réfractaire aussi, au début.  
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Non, la conférence portait vraiment sur la gestion du changement. La personne en charge du projet de migration des données vers Microsoft 365 donnait la conférence avec la cheffe des ressources humaines, qui a plutôt exposé le point de vue d’une personne qui ne sait comment ça fonctionne et qui peut être réfractaire au début du projet. 
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Elle disait, à un moment donné, que c’était la première fois qu'elle entendait parler de plans de classification, de calendriers de conservation, de tous ces concepts-là. Elle les découvrait. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Elle disait, à un moment donné, que c’était la première fois qu'elle entendait parler de plans de classification, de calendriers de conservation, de tous ces concepts-là. Elle les découvrait.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Et pourtant, elle travaille à Bibliothèques et Archives nationales du Québec ! Mais c'est ça, c'est logique… 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Et pourtant, elle travaille à Bibliothèques et Archives nationales du Québec!
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Elle est aux ressources humaines. Ce ne sont pas ses tâches premières. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Elle est aux ressources humaines. Ce ne sont pas ses tâches premières.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Moi, j'avais trouvé ça quand même vraiment intéressant de voir à quel point ça pouvait être compliqué, même dans un organisme comme celui-là. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Moi, j'avais trouvé ça quand même vraiment intéressant de voir à quel point ça pouvait être compliqué, même dans un organisme comme celui-là.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Après avoir tout écrit, le plan de classification et le projet de migration, il faut que tu gères les personnes aussi. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Après avoir tout écrit, le plan de classification et le projet de migration, il faut que tu gères les personnes aussi.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Exactement, gérer les personnes, les caractères, les émotions des personnes. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Exactement, gérer les personnes, les caractères, les émotions.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Parce qu'il y a des gens qui n'aiment pas le changement aussi, et tu auras beau leur expliquer que c'est important, ils vont toujours être réfractaires. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Parce qu'il y a des gens qui n'aiment pas le changement, et tu auras beau leur expliquer que c'est important, ils vont toujours être réfractaires.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Tu parlais de vulgarisation, Taylor, et c'est un truc que je ne savais pas, par rapport aux archives. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Tu parlais de vulgarisation, Taylor, et c'est un truc que je ne savais pas, par rapport aux archives. Je n’avais jamais pensé à ça.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Oui, moi non plus. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Moi non plus. Qu'on allait mettre les mains dans les affaires des gens. C'est quand même personnel, la façon dont tu organises tes affaires. C'est comme des catégories que tu as dans ta tête, qui ont du sens pour toi. Puis là, il y a quelqu'un de l'extérieur qui vient te dire: "Non, on ‘scrape’ tout ça, tu vas faire comme je te dis de faire". C'est quand même intrusif.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">J’avais pas pensé à ça. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ L’objectif est peut-être de trouver une espèce de terrain d'entente entre les différentes manières de fonctionner et de choisir un vocabulaire commun, sur lequel tout le monde s'entend pour qu'on embarque dans ton projet.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
-  Oui, qu'on allait mettre les mains dans les affaires des gens. C'est quand même personnel, la façon dont tu places tes affaires. C'est comme des catégories que tu as dans ta tête, qui ont du sens pour toi. Puis là, il y a quelqu'un de l'extérieur qui vient te dire : « Non, on ‘scrape’ tout ça, tu vas faire comme moi, je te dis de faire ». C'est quand même intrusif.
-    </div>
-</div> 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Un autre défi de l’archivistique auquel on a pensé, c'est l’enjeu des données personnelles.
+   </div>
+</div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">C'est peut-être aussi de trouver une espèce de terrain d'entente pour les manières de fonctionner de tout le monde puis de trouver un vocabulaire. Toi, tu aurais appelé ça comme ça, mais les gens dans l'entreprise, eux, appellent ça comme ça. Trouver un vocabulaire sur lequel tout le monde s'entend pour qu'à peu près tout le monde embarque dans ton projet. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui. Parce que Teams, c'est un environnement partagé. L'objectif à BAnQ était d'arrêter de travailler en silos et que tout soit partagé, mais en conservant une certaine protection des données personnelles, parce que tu ne peux pas partager les informations comme les numéros de téléphone, les informations médicales, etc. L’accès aux dossiers des ressources humaines ne devait pas être donné à tout le monde, mais il fallait quand même que tout se retrouve sur Teams.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">C'est comme l'intersection entre les functional requirements du projet, des trucs qui sont nécessaires parce qu'on a un but et des objectifs, ce qui est réaliste, ce qui va être facile à communiquer avec les usagers. 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
-  Un autre défi auquel on a pensé, c'est l’enjeu des données personnelles.
-    </div>
-</div> 
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Oui. Parce que Teams, c'est comme un environnement partagé. Dans le fond, l'objectif, c'était d'arrêter de travailler en silo puis que tout soit partagé, mais en conservant une certaine protection des données personnelles, parce que tu ne peux pas partager les informations comme les numéros de téléphone, les informations médicales… 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Oui, c'est ça. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ J'imagine que ce sont les TI qui s’occupent de la gestion des accès, mais en collaboration avec les gestionnaires.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">C'est dans les dossiers des ressources humaines, l’accès ne doit pas être donné à tout le monde, mais il faut quand même que ça soit sur Teams… 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Les gestionnaires vont peut-être déterminer quels documents doivent pouvoir être accessibles par tout le monde, lesquels doivent avoir une accessibilité restreinte et lesquels sont complètement confidentiels. Il y a donc cette espèce de classification à faire en plus de toutes les autres.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Il y a toute la couche de gestion des accès. J'imagine que ce sont les TI qui s'en occupent, mais aussi en collaboration avec les gestionnaires. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il faut des procédures au début pour les archivistes, ou ceux qui font de la gestion documentaire, pour comprendre Teams et se familiariser avec le système. J'imagine qu’à BAnQ, ils utilisaient déjà Teams pour les rencontres ou pour les échanges. Avec la COVID, probablement que ç’a été un changement très rapide.
+   </div>
+</div>
+
+ ## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Là où on travaillait avec Pascale, on avait déjà Teams avant la pandémie, mais personne ne s'en servait. J'aurais pu chatter avec Pascale sur Teams, mais je n'aurais jamais pensé à faire ça, parce qu'on ne s'en servait juste pas. Et du jour au lendemain, c'est quasiment devenu notre outil de travail principal.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Les gestionnaires vont peut-être déterminer quels documents doivent pouvoir être accessibles par tout le monde, et lesquels doivent avoir une accessibilité restreinte, et lesquels sont complètement confidentiels. Donc il y a cette espèce de classification à faire en plus des autres. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, littéralement du jour au lendemain. Le 13 mars! Je suis partie chez moi avec l’ordinateur le 13 mars. Je suis immunosupprimée, donc on m’avait dit: "Toi, tu rentres chez toi, tu pars avec la tour."
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Il faut des procédures au début pour les archivistes, ou ceux qui font de la gestion documentaire, pour comprendre Teams puis se familiariser avec le système. Est-ce que vous savez s'ils utilisaient déjà Teams à BAnQ pour les rencontres ou pour les échanges? Avec la COVID, probablement que ça a été un changement très rapide. 
-    </div>
-</div>
-
- ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Nous, d'ailleurs, là où on travaillait avec Pascale, Teams, on l'avait déjà avant la pandémie, mais personne ne s'en servait vraiment. Peut-être que les gestionnaires ou les cadres s’en servaient davantage. Mais on l'avait déjà, on aurait pu s'en servir si on l’avait voulu. J'aurais pu chatter avec Pascale sur Teams, mais je n'aurais jamais pensé à faire ça, parce qu'on ne s'en servait juste pas. Et du jour au lendemain, c'est devenu notre outil de travail principal, quasiment. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ "Tu pars avec la tour!" Tu l’as débranchée.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Oui, littéralement du jour au lendemain. Le 13 mars ! Je suis partie chez moi avec l’ordinateur le 13 mars. Je suis immunosupprimée, donc on m’avait dit : « Toi, tu rentres chez toi, tu pars avec la tour. » 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, je l'ai débranchée et j'ai fait sauter les breakers.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">« Tu pars avec la tour ! » 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Tu ne peux pas débrancher toute ta station! Ta gestionnaire n’y avait pas pensé.
+   </div>
 </div>
 
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Oui, je suis partie avec la tour. 
-    </div>
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Non, on n'avait pas le temps de penser, cette journée-là!
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Tu l'as débranchée. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il n'y avait pas de gestion de changement.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Oui, je l'ai débranchée et j'ai fait sauter les breakers. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Le lundi 16 mars 2020, tout le monde était sur Teams.
+   </div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Avant, quand je parlais à mes collègues, même pour faire des jokes, j'envoyais des courriels! À partir de la pandémie, nos gestionnaires ont essayé de nous faire utiliser Teams pour partager des documents. J'ai toujours trouvé ça un peu... Ce fut un succès mitigé, je dirais. J'ai l'impression que, parfois, on ne savait pas trop comment se retrouver là-dedans. Où sont les fichiers? Comment les placer? Je sais que vous aviez essayé, avec ta collègue coordonnatrice, d'organiser tout ça.
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Pas vraiment. Sur Teams, pas tant que ça. On a laissé tomber. Ç’a été mal organisé dès le départ. Tout le monde avait créé plein de canaux…
+   </div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, c'est ça! Il y avait des discussions à l'infini, plein de canaux, de discussions privées… Une fois de temps en temps, les TI ou nos gestionnaires nous envoyaient des courriels pour dire: "Pour tel type de travail en équipe, utilisez plutôt tel canal. Utilisez plutôt des conversations privées pour ceci ou cela", mais les limites n’étaient jamais très claires.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Tu peux pas juste débrancher toute ta station ! Ta gestionnaire n’y avait pas pensé. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Même quand on l’utilise pour l'université, ce n’est pas évident. Il n’y a pas eu de formation.
+   </div>
 </div>
 
-## Marine : 
+## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Non, clairement, on n'avait pas le temps de penser, cette journée-là ! 
-    </div>
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On a eu une formation.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Il n'y avait pas de gestion de changement. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Littéralement, lundi 16, tout le monde était sur Teams. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, vous avez eu une formation, mais dans le cours d'informatique. 
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Avant, quand je parlais à mes collègues, même pour faire des jokes, j'envoyais des courriels ! Mais parfois, pendant les années qui ont passé depuis la pandémie, nos gestionnaires ont essayé de nous faire utiliser Teams pour partager des documents. J'ai toujours trouvé ça un peu... C'était un succès mitigé, je dirais. J'ai l'impression que parfois, on ne savait pas trop comment se retrouver là-dedans. Les fichiers, ils sont où ? Comment les placer? Je sais que vous aviez essayé, avec ta collègue coordonnatrice, d'organiser tout ça. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Pas vraiment. Sur Teams, pas tant. On a laissé tomber… C'est parce que ça a été mal organisé dès le départ. Tout le monde avait créé des canaux… 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Oui, c'est ça! Il y avait des discussions à l'infini, plein de canaux, de discussions privées… Une fois de temps en temps, les TI ou nos gestionnaires nous envoyaient des courriels pour dire : « Pour tel type de travail en équipe, utilisez plutôt un canal. Utilisez plutôt des conversations privées pour ceci ou cela », mais les limites n’étaient jamais très claires. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ On a eu un TP qui portait sur Teams, donc ç’a quand même aidé. Mais on a quand même eu un problème. Au début, on s'était créé notre conversation à nous trois pour le journal de bord et on n'arrivait pas à partager un fichier. Finalement, on a dû créer une équipe pour être capables de se partager les fichiers, mais j'ai vu qu'entre-temps, le fichier de départ était apparu dans notre conversation privée!
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Même quand on l’utilise pour l'université, je trouve qu'il n'y a pas eu de formation. On essayait de partager les documents... 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ce n’est pas que ce n’est pas intuitif: on s'est débrouillées. Mais je l'utilise aussi à la bibliothèque au travail, puis le fait que ce soit configuré par les TI, qu'ils ont déjà une structure, un modèle pour l'organisation des conversations et des différentes sections de la bibliothèque, ça facilite énormément mon utilisation. L’année passée, j’avais une collègue avec qui je faisais un projet. Elle était très informée sur les fonctionnalités de Teams et elle nous envoyait des documents. Moi, j’étais comme: "Je ne les trouve pas." Aussi, c'est différent selon l'appareil avec lequel tu l’utilises. Finalement, j’ai dit: "Peux-tu me les envoyer par courriel?" C'est un outil qui peut être utilisé par des organismes gouvernementaux, par des étudiants qui font des projets, ou tu peux l'utiliser dans ta vie personnelle avec des amis. À cause de ça, afin d'être en mesure de l’utiliser efficacement, il faut avoir une connaissance des fonctions plus avancées de Teams.
+   </div>
 </div>
 
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">On a eu une formation. 
-    </div>
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est intéressant ce que tu disais sur le fait que les TI, à ta bibliothèque, ils ont déjà tout configuré avant. Je pense que c'est peut-être une des clés du succès, de ne pas juste lancer un logiciel en disant: "Vous allez tous l'utiliser de la même façon", mais de voir les besoins, équipe par équipe, et de tout pré-paramétrer pour que ça réponde aux besoins particuliers des différentes équipes et que ce ne soit pas trop compliqué. Parce qu'il y a tellement de fonctionnalités! Il y a plein d'onglets dans Teams sur lesquels je ne suis jamais allée. Je ne sais pas ce que c'est et je ne sais pas à quoi ça sert. Ah, Teams! Quels bons souvenirs!
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Oui, vous avez une formation, mais dans le cours d'informatique.  
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ On passe à un autre défi?
+   </div>
 </div>
 
-## Marine : 
+## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">On a eu un TP qui portait juste sur Teams, donc ça a quand même aidé. Mais même là, on a quand même eu un problème. Au début, on s'était créé notre conversation à nous trois, puis là, on n'arrivait pas à partager un fichier. Finalement, on a dû créer une équipe pour être capables de se partager les fichiers, mais j'ai vu qu'entre-temps, le fichier de départ était apparu dans notre conversation privée ! 
-    </div>
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Il y a celui de naviguer entre "donner accès aux plus d'archives possibles" versus "la protection des données", le droit à l'oubli, aussi.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">C'est dur, parce que… Ce n’est pas que ce n’est pas intuitif : on s'est débrouillées. On n'était pas comme : « Ah, on ne pourra pas partager ! » 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est tellement un sujet intéressant!
+   </div>
 </div>
 
 ## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, vraiment!
+   </div>
+</div>
+
+## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Non, c'est ça. 
-    </div>
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ En archivistique, on parle de diffusion des archives. Ce qu'on veut, c'est pouvoir rendre les archives disponibles, accessibles au plus grand nombre de personnes possible. C'est ça qu'on veut, mais en même temps, on veut aussi protéger les données des gens. On ne peut pas rendre accessibles des informations que quelqu'un ne voudrait pas voir devenir publiques.
+   </div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ J'ai l'impression que ça dépend tellement des gens. Dans ma tête, il y a deux camps opposés. Je ne dis pas que j'ai raison, mais spontanément, j'ai tendance à vouloir que l'information circule le plus possible ; on s'en fiche de lire le prénom de quelqu’un quelque part dans un document… Mais je sais qu'il y a des gens qui sont vraiment heurtés par le fait que leurs données personnelles se retrouvent on ne sait où. Par exemple, je ne fais pas tellement attention à ma cybersécurité. J'accepte tout, je donne mon courriel, je m'inscris à plein de choses.
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Moi aussi. Je dis à tout le monde que j'ai la maladie de Crohn, je m'en fous. Quand on me demande si je suis d'accord pour qu'on utilise mes données à des fins de recherche, j’accepte toujours. Prenez tout!
+   </div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je raconte ma vie privée à Chat GPT, je m'en fous vraiment. Mais je sais qu'il y a des gens qui sont très méfiants. C'est une question de sensibilité parce qu'il y a d'autres gens qui, au contraire, sont comme: "Ah, mon Dieu, mes données, mes données!"
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Les données bancaires, fine.
+   </div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, évidemment.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Mais moi, je l'utilise aussi à la bibliothèque au travail, puis le fait que ce soit configuré par les TI puis qu'ils ont déjà comme une structure, un template… 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ton adresse? Peut-être pas!
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Mon adresse, peut-être pas. Mais le fait que j'aie subi telle chirurgie, ça pourrait rentrer dans certaines statistiques. Vas-y, prends mes données! Si ça peut servir à une recherche, ça me dérange pas du tout.
+   </div>
 </div>
 
 ## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Après, tu n'as peut-être pas envie d'être en couverture du Journal de Montréal.
+   </div>
+</div>
+
+## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Un modèle. 
-    </div>
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Non, non, non.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Oui, un modèle, dans le fond, pour l'organisation de toutes les conversations puis toutes les différentes sections de la bibliothèque, ça facilite mon utilisation énormément. Puis même, l’année passée, j’avais une collègue avec qui je faisais un projet ; puis elle, elle était très informée sur les fonctionnalités de Teams. Elle nous envoyait des documents et j’étais comme : « Je ne les trouve pas. » Aussi, c'est différent selon que tu es sur l'application, quand tu es sur ton ordinateur portable… Puis là, j'étais comme : « Ah, OK, bien, peux-tu me l'envoyer par courriel ? » C'est un outil qui a des fonctions universelles, dans le fond. Ça peut être utilisé par des organismes gouvernementaux, par des étudiants qui font des projets, ou tu peux l'utiliser personnellement juste avec des amis. Et à cause de ça, il y a des trucs pour lesquels il faut avoir une connaissance des fonctions plus avancées, puis de comment gérer ça pour pouvoir l'utiliser efficacement. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Dans un cours de bibliothéconomie similaire à celui que vous suivez, on avait fait des présentations sur différents enjeux dans les sciences de l'information. On avait parlé des données qui sont ramassées quand tu dis "oui" à tous les cookies sur un site web. Ces données-là, ce ne sont pas nécessairement des chercheurs qui vont les utiliser. Ça va se retrouver dans des logiciels ou dans des programmes qui vont ensuite créer des profils stéréotypes d'usagers, mais aussi des consommateurs. Par rapport à des publicités pour des emplois, des postes qui étaient ouverts, par exemple, on cherchait des profils spécifiques. Les personnes qui étaient racisées avaient moins de chances de voir des publicités pour des emplois sur les médias sociaux, sur un site de commerce en ligne ou sur le site d’une revue ou d’un journal. Les publicités sont ciblées en fonction des caractéristiques qu’ils ont ramassées sur toi. Même si tu ne dis pas que tu es une femme blanche de 24 ans qui étudie à l'EBSI, ils ont tellement de données qu'ils peuvent un peu le savoir déjà. Ils savent que les personnes qui ont cliqué sur le site de l'EBSI, sur Old Navy et sur le site du gouvernement du Canada, toutes ces personnes-là, en général, elles achètent des sacoches. Si tu as cliqué sur tous ces sites-là, on va te montrer des publicités de sacoches. Ces données sont utilisées pour te vendre des choses. Ce n'est pas la fin du monde parce qu'on est critique quand on navigue en ligne, en général, mais tout le monde ne l’est pas. Si ton environnement sur les médias sociaux, ça devient juste ton stéréotype, juste ce qui t'est vendu, tu restes un peu dans ta cage. Ça s'applique aussi si tu suis des personnes qui sont très radicales, on va finir par ne t’exposer qu’à des publications radicales. Si tu cherches un emploi et que ton navigateur sait que tu as étudié en bibliothéconomie, ça va peut-être limiter ce que tu vas voir comme offres quand tu vas effectuer tes recherches. Les compagnies, une fois qu'elles ont ramassé ces données, devraient éviter de créer des profils, mais la législation n'est pas encore là. Il faut que des professionnels en technologie de l'information se penchent sur ces enjeux afin qu’on puisse ensuite formuler des lois qui vont protéger les consommateurs.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">C'est intéressant ce que tu disais sur le fait que les TI, à ta bibliothèque, ils ont déjà tout configuré avant. Puis ça, je pense que c'est peut-être une des clés du succès aussi, c'est de ne pas juste lancer un logiciel en disant : « Vous allez tous l'utiliser de la même façon », mais de voir les besoins, équipe par équipe, déjà de pré-paramétrer pour que ça réponde aux besoins et que ce ne soit pas trop compliqué. Parce qu'il y a tellement de fonctionnalités ! Il y a plein d'onglets dans Teams que je ne suis jamais allée voir, je ne sais pas ce que c'est, je ne sais pas à quoi ça sert. Puis ça peut être mêlant. Ah, Teams! Quels bons souvenirs ! 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ La protection devrait être en amont. Ça ne devrait pas être notre responsabilité de dire "j'accepte" ou "je refuse", c'est un faux choix.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">On passe à un autre défi ? 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Les études démontrent que personne ne lit les politiques de confidentialité. J'ai eu un cours complet sur ça. Parfois, je choisis: "Je refuse tout", mais je ne comprends pas ce que ça fait, le fait de refuser ces cookies-là. On manque d'informations. Je comprends pourquoi: c'est arrivé tellement rapidement!
+   </div>
 </div>
 
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Il y a celui de naviguer entre « donner accès aux plus d'archives possibles » versus « la protection des données », le droit à l'oubli, aussi. 
-    </div>
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est un sujet complexe aussi.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">C'est tellement un sujet intéressant ! 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Si tu n'as pas une maîtrise en technologie de l'information, c'est très étranger. Ce n'est pas le langage que tu utilises pour parler de ton ordinateur, de ton téléphone, de Facebook.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Oui, vraiment ! 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est très abstrait, quand même.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">En archivistique, on parle de diffusion des archives. Ce qu'on veut, c'est pouvoir rendre les archives disponibles, accessibles aux plus de personnes possible. C'est ça qu'on veut, mais en même temps, on veut aussi protéger les données des gens. On ne peut pas rendre accessibles des informations que quelqu'un ne voudrait pas voir devenir publiques.
-    </div>
-</div> 
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, quand on parle du numérique. C'est vraiment nouveau. Mais pour les archives, même historiques, il y a des lois qui disent que tu n'as pas le droit d'accéder aux archives avant 100 ans.
+   </div>
+</div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">J'ai l'impression que ça dépend tellement des gens. Dans ma tête, il y a deux camps opposés. Je ne dis pas que j'ai raison, mais spontanément, j'ai tendance à vouloir que l'information circule le plus possible. Pour moi, on s'en fiche de lire le prénom de quelqu’un quelque part dans un document… Mais je sais qu'il y a des gens qui sont vraiment heurtés par le fait que leurs données personnelles se retrouvent on ne sait où. Par exemple, je ne fais pas tellement attention à ma cybersécurité. J'accepte tout, je donne mon courriel, je m'inscris à plein de choses. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je ne peux pas m'empêcher de trouver ça dommage, quand même.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Moi aussi. Je dis à tout le monde que j'ai la maladie de Crohn, je m'en fous. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Quelqu’un qui a un fonds d'archives privé peut poser ses propres restrictions sur son fonds d'archives. Admettons que cette personne décède. Si quelqu'un a besoin de ces données-là pour effectuer une recherche et que la personne à qui appartenait les archives est décédée il y a 10 ans, on va lui en refuser l’accès. On besoin de documents primaires pour les recherches. C'est à ça que ça sert! C’est dommage de devoir dire: "Désolée, tu ne peux pas y avoir accès, il faut attendre encore 20 ans…" C'est plus à ce niveau-là que les archivistes voudraient peut-être pouvoir dire: "Vas-y, utilise-les." Est-ce qu’il existe des dérogations?
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Je raconte ma vie privée à Chat GPT, je m'en fous vraiment. Mais je sais qu'il y a des gens qui sont très méfiants. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Quand on me demande si je suis d'accord pour qu'on utilise mes données à des fins de recherche, j’accepte toujours. Prenez tout ! 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Je disais que c'est une question de sensibilité parce qu'il y a d'autres gens, au contraire, qui sont comme : « Ah mon Dieu, mes données, mes données! » 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Les données bancaires, fine. 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Oui, évidemment. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je serais curieuse de connaître l'argumentaire derrière tout ça. Pourquoi on a décidé que c'était 30 ans après le décès de quelqu'un? Pourquoi pas 20 ou 50 ans? Comment ils ont décidé ça?
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Ton adresse ? Peut-être pas ! 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Mon adresse, peut-être pas. Mais le fait que j'aie subi telle chirurgie, ça pourrait rentrer dans certaines statistiques… Vas-y, prends-les! Si ça peut servir à une recherche… Ça me dérange pas du tout. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est comme si une personne décédée avait encore un droit d’auteur sur ses propres documents… s’ils ne sont pas détruits! "Quand je meurs, s’il te plaît, burn it all!" Mais attendre 20 ans, 40 ans…
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Après, tu n'as peut-être pas envie d'être en couverture du Journal de Montréal. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Non, non, non. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Il me semble qu'à partir du moment où je ne suis plus là, si je n’ai pas détruit moi-même les documents…
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Dans un cours de bibliothéconomie similaire à celui que vous suivez, on avait fait des présentations sur différents enjeux en général dans les sciences de l'information. Et un des sujets qui étaient intéressants… Ces données qui sont ramassées quand tu dis oui à tous les cookies sur un site web, ces données-là, ce ne sont pas nécessairement des chercheurs qui vont les utiliser. Ça va se retrouver dans des logiciels ou dans des programmes qui, eux autres, ensuite, vont créer des profils stéréotypes d'usagers, mais aussi des consommateurs. Ils ont trouvé des trucs comme, disons, des publicités pour des emplois, des postes qui étaient ouverts ; là, ils ont trouvé qu'ils cherchaient des profils spécifiques. Les personnes qui étaient racisées avaient moins de chances d'avoir des publicités pour des emplois, en général. Surtout sur les médias sociaux, je pense, ou même quand tu vois toutes les annonces après que tu as consulté un magasin en ligne, ou quand tu vas sur un site d'un journal pour lire un article ou quelque chose comme ça : c'est ciblé précisément selon les caractéristiques qu'ils ont ramassées de toi. Même si tu ne dis pas que tu es une femme blanche de 24 ans qui étudie à l'EBSI, eux autres ont tellement de données qu'ils peuvent un peu le savoir déjà. Pas précisément comme ça, mais ils savent que les personnes qui ont cliqué sur le site de l'EBSI puis qui ont cliqué sur Old Navy puis qui ont cliqué sur le site du gouvernement du Canada, toutes ces personnes-là, en général, elles achetaient aussi des sacoches. Ces données sont utilisées pour te vendre des choses. Ce n'est pas la fin du monde parce qu'on est critique quand on navigue en ligne, en général, mais tout le monde ne l’est pas. Si ton environnement dans les médias sociaux, ça devient vraiment juste ton stéréotype, juste ce qui t'est vendu… Tu es comme dans ta cage, un peu. Ça s'applique aussi en général si tu suis des personnes qui sont très radicales. Tu vas finir par recevoir essentiellement des conversations radicales. Et aussi, juste de dire qu'on a la liberté de choix, mais si tu es toujours en train d'être ciblée avec ces produits-là ou ces services-là... Si tu cherches une job, ton navigateur sait que tu as étudié en bibliothéconomie, ça va peut-être limiter ce que tu vas trouver quand tu fais ta recherche. Il y a un enjeu, là, où les compagnies, une fois qu'elles ramassent ces données, devraient éviter de créer des profils, puis la législation n'est pas là encore. Il faut des professionnels en technologie de l'information pour pouvoir comprendre les enjeux et ensuite avoir des droits qui protègent les consommateurs. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça ne m’intéresse plus. Même si je crois en quelque chose après la vie, mes documents pour les taxes de 2042 ne vont pas m'affecter!
+   </div>
 </div>
 
-   
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ La divulgation de certaines informations pourrait affecter ta famille. Quelles informations tu rends accessibles? Lesquelles tu ne rends pas accessibles? Pourquoi? C'est très compliqué.
+   </div>
+</div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">La protection devrait être en amont. Ça ne devrait pas être notre responsabilité de dire « j'accepte » ou « je refuse », c'est un faux choix. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Prenons l’exemple de mon dossier médical et admettons que je suis décédée. Dans mon dossier médical, il y a mon numéro de téléphone. Ils se disent: "Ah, ça identifie la personne, on ne peut pas rendre le document accessible." On ne peut pas juste enlever le numéro de téléphone? Il n’est sans doute même plus valide, le numéro de téléphone, de toute façon. J'ai un peu de misère à comprendre la logique de tout ça. Il ne faut surtout pas qu'un nom soit associé à un numéro de téléphone… qui n’est peut-être même plus valide. Et puis, au bout du compte, il y a tellement de compagnies qui l'ont déjà, mon numéro de téléphone. Je reçois des appels non désirés 50 fois par jour. Rendu là, ça change quoi?
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Les études démontrent que personne ne lit les politiques de confidentialité. Même quand ils t'obligent à cocher, mais qu’ils te donnent l'option de tout cocher ou de cocher seulement les cookies que tu acceptes, personne ne le fait. J'ai eu un cours complet sur ça, puis parfois, je suis comme : « j'ai pas le goût », ou je refuse tout, mais je ne comprends pas ce que ça fait, le fait de refuser ces cookies-là. Il y a comme un manque d'information. Je comprends pourquoi, parce que c'est arrivé tellement rapidement… 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il n’y a que les machines qui ont le droit d’avoir accès à toutes mes informations!
+   </div>
 </div>
 
 ## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est ça que je trouve un peu bizarre. J'ai l'impression que mes données personnelles, que je le veuille ou non, sont déjà partout, de toute manière. "Ah oui, mais ça, il ne faut surtout pas que ce soit accessible à qui que ce soit pendant 30 ans après ton décès." D'accord, mais Google a déjà toute cette information.
+   </div>
+</div>
+
+## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">C'est un sujet complexe aussi. 
-    </div>
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Sans doute. Ça me fait penser aux notions de documents structurés et non structurés dans le texte de Diane Baillargeon sur la déontologie (Baillargeon, 2006). Elle y parle des données qui sont "recherchables": par exemple, un formulaire avec des catégories comme "nom", "âge", etc. Ce sont des informations formatées. Donc, c'est plus facile à trouver dans les documents. Ça, ce sont les documents structurés, tu ne peux pas les rendre accessibles. En revanche, des informations dites "personnelles", mais qui se retrouvent au sein d'un texte...
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">C'est un sujet très complexe. Si tu n'as pas une maîtrise en technologie de l'information… C'est très étranger. Ce n'est pas le langage que tu utilises pour parler de ton ordinateur, de ton téléphone, de ton appartement, de Facebook. 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">C'est très abstrait quand même. 
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+  Est-ce que le document lui-même est "codé" pour que tu puisses faire une recherche d’information ou pas?
     </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Ça, c'est vraiment lié à tout ce qui est numérique. C'est vraiment nouveau. Mais dans les centres d'archives, tu as quand même les lois qui disent que tu n'as pas le droit d'accéder à ces archives. Tu n'as pas le droit de les rendre accessibles avant 100 ans. 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Je ne peux pas m'empêcher de trouver ça dommage, quand même. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Parfois, même, tu as quelqu'un, par exemple, qui a un fonds d'archives privé, et il va mettre ses propres restrictions sur son fonds d'archives. Et là, quelqu'un est décédé… Quoique, il y a des lois là-dessus. Mais disons que ça fait 10 ans qu'il est décédé au lieu de 30. Quelqu'un a besoin de ces données-là pour faire une recherche, au niveau universitaire… Tu as besoin de ces documents primaires-là pour des recherches. C'est à ça que ça sert ! De dire : « Désolée, tu ne peux pas y avoir accès parce qu'il faut attendre encore 20 ans… » C'est plus à ce niveau-là, je suis sûre, que les archivistes voudraient bien pouvoir dire : « Vas-y, utilise-les. » Est-ce qu’il existe des dérogations? 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Je serais curieuse de connaître l'argumentaire de tout ça. Pourquoi on a décidé que c'était 30 ans après le décès de quelqu'un ? Pourquoi 30 ans ? Pourquoi pas 20 ? Pourquoi pas 50 ? Comment ils ont décidé ça ? 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Dans le cas d’un document non structuré, non. Les informations personnelles ne vont pas être caviardées, parce que tu ne sais pas que tel texte contient quelle information, tu ne peux pas la chercher. Le travail d’archiviste est compliqué, au milieu de tout ça.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">C'est comme si une personne décédée avait encore un droit d’auteur sur ses propres documents 20, 30, 40 années après… s’ils ne sont pas détruits! Je comprends que… « Quand je meurs, s’il te plaît, burn it all ! » Mais attendre 20 ans, 40 ans… 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Un document structuré est techniquement plus accessible, plus facile à naviguer et donne plus d'informations. Mais on a la question des données personnelles qui devient plus importante que le fait d'avoir accès à toute cette information.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Il me semble qu'à partir du moment où je ne suis plus là, si je n’ai pas détruit moi-même les documents… 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Ça ne m’intéresse plus. Même si je crois en quelque chose après la vie, mes documents pour les taxes de 2042 ne vont pas m'affecter ! 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ On revient à cette question. Est-ce qu'on privilégie le droit du public d'avoir accès à certaines archives ou est-ce qu'on privilégie les ayants droit... sans que les ayants droit aient nécessairement dit: "Je veux que ça reste secret." C'est juste parce que la loi a prévu cette protection des données personnelles. C'est vraiment épineux comme question. J'ai l'impression de ne pas en savoir assez pour avoir une opinion vraiment informée. Ça me prendrait plus de cas précis où il y a eu des dilemmes, pour que je puisse y réfléchir.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Ça peut affecter ta famille, sur certaines informations. Quelles informations tu rends accessibles ? Lesquelles tu ne rends pas accessibles ? Pourquoi ? C'est très compliqué. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Il y a aussi le sujet de la destruction des données. Pas nécessairement la destruction, mais le caviardage de données. Certaines personnes connaissent quand même bien les législations et vont utiliser ces législations-là pour cacher des informations, mais en toute légalité.
+   </div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Est-ce que c'est le rôle du gouvernement, des avocats, de développer la législation pour empêcher que tu puisses cacher ces informations-là? Ou est-ce que les lois sont faites pour protéger un droit important des personnes qui sont poursuivies?
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Rendu là, on n’est plus nécessairement dans le domaine des données personnelles. Enfin, ça peut l’être, mais ça peut être carrément un refus de partager certaines informations, dans le but de cacher des choses qui pourraient être incriminantes.
+   </div>
 </div>
 
 ## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ On a déjà donné un exemple en classe, je pense: celui d’un ministre qui prend sa retraite et qui détruit tous ses documents en partant. Il n’a pas le droit, il n'est pas supposé faire ça, mais il n'y aura pas de conséquences. De toute façon, les documents ont été détruits. C'est fait, tu ne peux pas les faire revenir.
+   </div>
+</div>
+
+## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Exemple de mon dossier médical. Mettons que je suis décédée. Dans mon dossier médical, il y a mon numéro de téléphone. Ils se disent : « Ah, ça identifie la personne, on ne peut pas... » On ne peut pas juste enlever le numéro de téléphone ? Il n’est peut-être même plus bon, le numéro de téléphone, de toute façon. J'ai un peu de misère à comprendre la logique de tout ça. Il ne faut surtout pas qu'un nom soit associé à un numéro de téléphone… qui n’est peut-être même plus bon. Et puis, au bout du compte, il y a tellement de compagnies qui l'ont déjà, mon numéro de téléphone. Je reçois des appels de spams 50 fois par jour. Rendu là, ça change quoi ? Je ne sais pas. 
-    </div>
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ J'ai trouvé un article sur un sujet qu’Isabelle Dion a abordé dans le dernier cours: le caviardage au fédéral (Massoud, 2024). En Chambre, ils ont voté pour que le gouvernement libéral de Justin Trudeau fournisse certains documents directement à la GRC pour que celle-ci puisse faire une enquête là-dessus. La GRC a répondu que le fait que la Chambre vote pour que le gouvernement fournisse des documents créait un précédent. Normalement, la GRC peut demander elle-même les documents. Elle n’est pas obligée d’avoir l’appui donné grâce à un vote en Chambre. Mais en même temps, ç’a été voté par la Chambre. Donc, les documents ont été fournis, mais ils sont complètement caviardés, il n'y a aucune information de disponible. L’opposition demande aux libéraux: "Mais qu'est-ce qu'il y a de si terrible dans ces documents-là pour que vous ne vouliez pas les montrer?" C'est tellement louche! Et là, ça crée une espèce de paralysie parlementaire. Les députés n'arrêtent pas de s'obstiner là-dessus. Il y a le gouvernement libéral qui dit: "Il faudrait aller en comité pour parler de ça. De toute façon, la GRC n'en veut pas, des documents!" La GRC, effectivement, dit qu'elle n'est pas à l'aise avec le fait que ce soit le gouvernement qui effectue le travail de la police, finalement.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Il n’y a que les machines qui ont le droit à avoir accès à toutes mes informations ! 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, c'est ça, parce qu’ils sont désignés comme étant l'autorité là-dessus. Donc, si on commence à douter de leur autorité...
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ C'est ça. Mais je me mets à la place des personnes qui gèrent ces fameux documents. Qui est-ce qui a fait le caviardage, en fait? Qui a décidé de caviarder? 
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">C'est ça ! C'est ça que je trouve un peu bizarre. C'est que j'ai l'impression que mes données personnelles, que je le veuille ou non, sont déjà partout, de toute manière. « Ah oui, mais ça, il ne faut surtout pas que ce soit accessible à qui que ce soit pendant 30 ans après ton décès. » D'accord, mais Google a déjà toute cette information. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Qui a fait le geste, littéralement? Est-ce un gestionnaire de documents?
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Sans doute. On va te proposer des sacoches ! Ça me fait penser aux notions de documents structurés et non structurés dans le texte de Diane Baillargeon sur la déontologie, justement (Baillargeon, 2006). On y parle des données qui sont « cherchables » : par exemple, un formulaire avec des catégories, nom, âge, etc. Ce sont des informations formatées. Donc, c'est plus facile à trouver dans les documents. Ça, ce sont les documents structurés, tu ne peux pas les rendre accessibles. En revanche, des informations dites « personnelles », mais qui se retrouvent au sein d'un texte... 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je n’en ai aucune idée. Mais admettons que tu es archiviste et que tu te retrouves dans cette situation-là. La Chambre demande les documents. Peut-être que la GRC les demande de son côté. Est-ce que tu donnes les documents caviardés ou pas? Qui décide? Si tu donnes les documents non caviardés, est-ce que tu te fais mettre à la porte? C'est tellement délicat...
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;"> Est-ce que le document lui-même est comme « codé » pour que tu puisses faire une recherche d’information ou pas ? 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Dans le cas d’un document non structuré, non. Les informations personnelles ne vont pas être caviardées, parce que tu ne sais pas que tel texte contient quelle information, tu ne peux pas la chercher. Le travail d’archiviste est compliqué, au milieu de tout ça. 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Un document structuré est techniquement plus accessible, plus facile à naviguer et donne plus d'informations. Mais on a la question des données personnelles qui devient plus importante que le fait d'avoir accès à toute cette information.
-    </div>
-</div> 
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">On revient à cette question. Est-ce qu'on privilégie le droit du public d'avoir accès à certaines archives ou est-ce qu'on privilégie les ayants droit... sans que les ayants droit eux-mêmes, parfois, aient dit : « Moi, je veux que ça reste secret. » C'est juste parce que la loi a prévu que... C'est vraiment épineux comme question. J'ai l'impression de ne pas en savoir assez pour avoir une opinion vraiment informée. Ça me prendrait plus de cas précis où il y a eu des dilemmes, pour que je puisse y réfléchir, mais...  
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Tu as aussi le sujet de la destruction des données. Pas nécessairement la destruction, mais le caviardage de données. Certaines personnes connaissent quand même bien les législations et vont utiliser ces législations-là pour cacher des documents, mais en toute légalité. 
-  </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Est-ce que c'est le rôle du gouvernement, des avocats, de développer la législation pour empêcher que tu puisses cacher ces documents-là? Ou est-ce que les lois sont faites pour protéger un droit important des personnes qui sont poursuivies? 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Rendu là, on n’est plus nécessairement dans le domaine des données personnelles. Enfin, ça peut l’être, mais ça peut être carrément un refus de partager certaines informations, dans le but de cacher des choses qui pourraient être compromettantes. 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ J'ai l'impression qu'à ce niveau-là, tu n'aurais même pas le choix.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">On a déjà donné un exemple en classe, je pense : celui d’un ministre qui prend sa retraite, puis qui détruit tous ses documents en s'en allant. Il n’a pas le droit, il n'est pas supposé faire ça, mais il n'y aura pas de conséquences… puis de toute façon, les documents ont été détruits. C'est fait, c'est fait. Tu ne peux pas les faire revenir. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">J'ai trouvé un article sur un sujet qu’Isabelle Dion a abordé dans le dernier cours : le caviardage au fédéral (Massoud, 2024). En Chambre, ils ont voté pour que le gouvernement libéral de Justin Trudeau fournisse certains documents directement à la GRC pour que la GRC puisse faire une enquête là-dessus. Là, la GRC dit que ça crée un précédent que la Ccambre vote pour que le gouvernement fournisse des documents. Normalement, on est la GRC, on peut les demander : on n'est pas obligé d'avoir la Chambre qui vote. Mais en même temps, ça a été voté par la Chambre. Donc, les documents ont été fournis, mais ils sont complètement caviardés, il n'y a aucune information. L’opposition est comme : « Mais qu'est-ce qu'il y a de si terrible dans ces documents-là que tu ne puisses pas montrer? » C'est tellement louche ! Et là, ça crée une espèce de paralysie parlementaire. Parce que dans le fond, ils n'arrêtent pas de s'obstiner là-dessus. Il y a le gouvernement libéral qui dit : « Il faudrait aller en comité pour parler de ça… puis la GRC n'en veut pas, des documents ! » La GRC, effectivement, dit qu'elle n'est pas à l'aise avec le fait que ce soit le gouvernement qui demande, qui fasse le travail de la police, finalement. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Tu travailles pour quelqu’un.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Oui, c'est ça, parce que dans le fond, ils sont désignés comme étant l'autorité là-dessus. Donc, si on commence à douter de leur autorité... 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ce n'est pas subjectif, n’est-ce pas? Ce n'est pas: "Ah, OK, ça, je décide que c'est une information personnelle." Je pense qu'il y a des informations spécifiques qui peuvent être effacées et, pour faire attention, tu en effaces plus que tu en gardes. Tu finis avec des documents qui ne sont pas bons, mais ce n'est pas ton choix.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Oui, c'est ça. Mais tu sais, moi, je me mets à la place des personnes qui gèrent les documents à ce moment-là. Qui est-ce qui a caviardé, en fait? Qui a décidé de caviarder ?  
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Comme archiviste, tu connais la loi et tu sais que c'est plus ou moins honnête. Est-ce que tu dénonces?
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Puis même, qui a fait le geste, littéralement, de... Est-ce que c'est un gestionnaire de documents qui fait ça? 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Même si tu n’as pas le choix, est-ce que tu te donnes une responsabilité personnelle de dénoncer la situation?
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Je n’en ai aucune idée. Mais tu sais, mettons que tu es archiviste, tu te retrouves dans cette situation-là. Puis là, tu as la Chambre qui demande les documents. Peut-être que la GRC les demande. Mais là, est-ce que tu donnes les documents caviardés ou pas? Qui décide ? Si tu donnes les documents non caviardés, est-ce que tu te fais mettre à la porte? C'est tellement délicat... 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">J'ai l'impression qu'à ce niveau-là, tu n'aurais même pas le choix. Tu dois suivre... 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Le texte de Diane Baillargeon proposait de mettre en place un système qui protège les archivistes pour qu'ils puissent suivre leur code de déontologie. Parce que oui, il faudrait que tu dénonces lorsque ça va à l’encontre de ton code de déontologie.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Tu travailles pour quelqu’un. 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Ce n'est pas subjectif, n’est-ce pas ? Ce n'est pas comme : « Ah, OK, ça, je décide que c'est une information personnelle. » Je pense qu'il y a des caractéristiques spécifiques de l'information qui peuvent être effacées. Puis là, pour faire attention, tu effaces plus que ce que tu gardes. Tu finis avec des documents qui ne sont pas bons, mais… ce n'est pas ton choix. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Concrètement, tu vas perdre ton emploi.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Mais tu sais, mettons que tu es un archiviste et que tu connais la loi, puis tu le sais que c'est plus ou moins honnête. Qui tu dénonces? Est-ce que tu dénonces? 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Peut-être qu’ils n'ont pas le droit de te faire perdre ton emploi pour ça, mais après, tu te retrouves dans un environnement de travail totalement toxique parce que tout le monde te déteste.
+   </div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Je regardais une offre de stage au CSIS, le Canadian Security Intelligence Service, qui est comme l'organisme d'intelligence au Canada. Il y avait un poste pour un étudiant en sciences de l’information. Quand tu appliques à ce poste-là, il faut que tu dises: "Je ne vais pas parler contre le Canada. Je ne vais partager aucun des documents, peu importe qui me le demande." Tu n'es pas encore engagé. Tu n'as même pas envoyé ton CV encore et tu dois cocher: "Non, je ne vais pas partager d’information. Je vais agir pour protéger l'organisme et non des forces externes, etc." Alors, ça doit être extrêmement difficile. C'est une grande décision à prendre quand tu te retrouves dans cette situation. Si ça fait longtemps que tu travailles là et que tu te rends compte que tu es en train de couvrir quelque chose d’horrible...
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Même si tu n’as pas le choix, est-ce que tu te donnes une responsabilité personnelle de dénoncer la situation, quelque part? 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ça va contre les valeurs de la profession, en fait.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Oui. Le texte de Diane Baillargeon proposait de mettre en place un système qui protège les archivistes pour qu'ils puissent suivre leur code de déontologie. Parce que oui, il faudrait que tu dénonces. Parce que c'est ça, ton code de déontologie. Mais en même temps... 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ J'aimerais vraiment travailler pour le SPVM ou la Sûreté du Québec. Dans le balado Disparue(s) (Berthomet, 2019), on se rend compte de tous les documents des forces de l’ordre qui ont disparu...
+   </div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Peut-être qu'ils détectent ça quand ils t'engagent au début. Ils sont comme: "Hum, tu es un peu trop libérale dans ta pensée." Je ne sais pas.
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On ne parle même pas de cacher des documents: ce sont des documents qui n'existent plus. C'est-à-dire que là, on parle de destruction de documents. C'est grave!
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Concrètement, tu vas perdre ton emploi.
-    </div>
-</div> 
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Est-ce que tu vas perdre ton emploi ? Ou alors, ils n'ont pas le droit de te faire perdre ton emploi, mais après ça, tu te retrouves dans un environnement de travail totalement toxique parce que tout le monde te déteste...  
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est même illégal.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Je regardais une offre de stage au CSIS, le Canadian Security Intelligence Service, qui est comme l'organisme d'intelligence au Canada. Puis il y avait un poste pour étudiants en sciences de l’information. Quand tu fais une application à ce poste-là, il faut que tu dises : « Je ne vais pas parler contre le Canada. Je ne vais partager aucun des documents, peu importe qui me le demande. » Tu n'es pas engagé. Tu n'as même pas envoyé ton CV encore et tu dois cocher : « Non, je ne vais pas partager. Je vais agir pour protéger l'organisme et non des forces externes, etc. » Puis ça, c'est dès le début. Alors, je ne peux pas imaginer. Ça doit être extrêmement difficile. C'est une grande décision à prendre quand tu es dans la situation. Si ça fait longtemps que tu travailles là et que tu te rends compte : « Mon Dieu, c'est quelque chose d'horrible que je suis en train de couvrir.» 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça reflète directement l'histoire des archives, le fait que c'était une manière d’établir l'identité d'une colonie, mais aussi de minimiser le droit d’existence des autres peuples: "Si je pense que ce ne sont pas des vraies personnes, elles ne seront pas considérées comme des vraies personnes." Ça va être reflété dans les documents. Les documents, c'est la loi. Ce sont des preuves, témoignage. Donc, certaines informations sont perdues pour l'histoire. À moins qu'on retrouve des documents, qu'on ait des communautés très braves qui ramènent ces documents. Mais la réalité, on la construit seulement avec les documents qu'on garde. Même si tu sais que ce n'est pas la réalité, tu peux seulement travailler avec ce que tu as.
+   </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Comme défis de l’archivistique, c’en est un, je trouve. Si je me retrouvais dans une situation comme ça, à quel point je me sentirais mal!
+   </div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Tu arrives au travail, tu es stressée.
+   </div>
 </div>
 
 ## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">Ça va contre les valeurs de ma profession, en fait. 
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est sûr. Moi, je serais vraiment stressée.
+   </div>
 </div>
 
 ## Pascale : 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Moi, j'aimerais vraiment travailler pour le SPVM ou la Sûreté du Québec. Dans le balado Disparue, on se rend compte de tous les documents qui ont disparu… 
-    </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je pense que je démissionnerais, je ne ferais rien.
+   </div>
 </div>
 
 ## Taylor :
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Peut-être qu'ils détectent ça quand ils t'engagent au début. Ils sont comme : « Hum, tu es un peu trop libérale dans ta pensée. » Je ne sais pas. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">On ne parle même pas de cacher des documents : ce sont des documents qui n'existent plus. C'est-à-dire que là, on parle de destruction de documents. C'est grave ! 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">C'est même illégal. 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Ça reflète directement l'histoire des archives, le fait que c'était comme une manière de... Oui, établir l'identité d'une colonie, mais aussi de réduire l'identité et l'existence des autres peuples. Puis si, moi, je pense que ce n'est pas une personne, ce groupe de personnes-là, bien, ils ne vont pas l'être. Puis, ça va être reflété dans les documents. Les documents, c'est la loi. Ce sont des preuves. C'est le témoignage. Donc, à part ce que j’ai… ce que je n'ai pas, évidemment, c'est perdu pour l'histoire. À moins qu'on retrouve des documents, qu'on ait des communautés très braves qui les ramènent, ces documents-là. Mais la réalité, ce sont seulement les documents qu'on garde. Même si tu sais que ce n'est pas la réalité, tu peux seulement travailler avec ce que tu as. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Comme défis de l’archivistique, c’en est un, je trouve. Si je me retrouvais dans une situation comme ça, à quel point je serais mal ! 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Tu arrives au travail, tu es stressée. 
-    </div>
-</div>
-
-## Marine : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">C'est sûr. Moi, je serais vraiment stressée. 
-    </div>
-</div>
-
-## Pascale : 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">Moi, je pense que je démissionnerais, je ne ferais rien. 
-    </div>
-</div>
-
-## Taylor :
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
-  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">Dans ma tête, soit tu es peut-être une mauvaise personne, ça ne te dérange pas ; ou tes valeurs te tiennent à cœur puis tu es comme : « Non, je ne veux pas me mettre dans cette situation-là. »   </div>
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Pour moi, soit tu es une mauvaise personne et ça ne te dérange pas ; ou tes valeurs te tiennent à cœur et tu ne veux pas te mettre dans cette situation-là.
+   </div>
 </div>
 
 ---
