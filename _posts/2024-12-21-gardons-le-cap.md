@@ -8,7 +8,7 @@ Voici les retranscriptions de nos quatre discussions.
 
 - [Liens entre l'archivistique et la vie de tous les jours](#liens-entre-larchivistique-et-la-vie-de-tous-les-jours)
 - [Les défis de l'archivistique](#les-défis-de-larchivistique)
-- [Sous-post 3](#sous-post-3)
+- [Nos expériences d'apprentissage](#nos-expériences-dapprentissage)
 - [Sous-post 4](#sous-post-4)
 
 ---
@@ -1745,8 +1745,1245 @@ Voici les retranscriptions de nos quatre discussions.
 
 ---
 
-## Sous-post 3
-Contenu du troisième sous-post.
+## Nos expériences d'apprentissages
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ On peut commencer par parler du projet de recherche dans les archives. J'ai trouvé que c’était un exercice vraiment intéressant. Ça nous a vraiment donné la chance d’être dans la position de quelqu'un qui a de l'information à trouver. C'était bien, aussi, qu'on puisse choisir un sujet qui nous intéresse, parce que ce n'est pas irréaliste de vouloir trouver de l'information, d’avoir à explorer des centres d'archives, des centres documentaires et de devoir commencer sa recherche en ligne. Quand on trouve une source d'information qui est secondaire, il on peut essayer d’en retracer la source originale, par exemple. Au début, je voulais effectuer des recherches sur les origines de l'Action de grâce. Ensuite, je suis allée explorer du côté des conditions et des traitements des patients de l'hôpital Protestant Hospital for the Insane. Il y avait plein de sources secondaires pour ces sujets. Mais les sources secondaires, parfois, ce sont des articles d'encyclopédie et les sources consultées n’y sont pas indiquées. Les articles nous donnent plein d'informations qui ont l'air super pertinentes, super utiles, c'est une source qui est fiable, mais… c'est basé sur quoi? Je ne sais pas et je ne pourrai pas le savoir. Dans ma tête, un article Wikipédia était un peu moins fiable, mais ces derniers peuvent comporter des liens vers des archives ou vers des centres de documentation, des musées, etc. Ça m'a un peu surprise.
+    </div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ D'ailleurs, c'est intéressant que tu parles de Wikipédia, parce que moi, dans mon travail, à un moment donné, je cherchais à accéder au fond du registre paroissial de Saint-Joseph de Lévis, à Québec. J’ai cherché dans Advitam, BAC et Bibliothèque et Archives Canada. Je ne trouvais rien. Je me disais: "Bon, ça ne doit pas être en ligne, tant pis." À un moment donné, en faisant d’autres recherches sur la page Wikipédia de la paroisse en question, je vois: "Le fonds est disponible sur BAnQ, voici le lien." Là, je clique sur le lien, et je le trouve. J'ai dû passer par Wikipédia pour être capable de trouver le fonds! Je pense que ce qui est arrivé, c’est que dans le moteur de recherche d’Advitam, je l'écrivais avec des traits d’union alors qu’il n'en fallait pas, ou le contraire. Donc là, j'ai fait: "OK, il faut vraiment être super précis dans la recherche." Ça m'a vraiment surprise que, de tous les endroits possibles où j'aurais pu trouver l'information, c'est Wikipédia qui m'ait finalement dirigée vers le fonds dont j'avais besoin.
+     </div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ L'article que j'ai lu pour la deuxième fiche de lecture, c'était celui sur Wikipédia, justement (Yoakim, 2019). Ça m'a donc donné l'idée de commencer de ce côté, parce que, justement, il y a un grand projet avec Bibliothèque et Archives nationales du Québec, dans lequel ils mettent des liens sur Wikipédia afin de rediriger vers les fonds, vers les archives. C'est vraiment intéressant parce que Wikipédia a tellement de visibilité que ça augmente la visibilité des fonds qui, autrement, pourraient rester dans l’obscurité.
+    </div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Est-ce que vous avez toutes les deux lu le texte sur Wikipédia?
+    </div>
+</div> 
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, je l’ai trouvé tellement intéressant.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Moi, je pense que je ne l'ai pas lu. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+  Tu t'en souviendrais.
+</div>
+</div>
+
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je me suis dit: "Il y a vraiment des sites Wikis de la BAnQ et ils diffusent leurs archives par là? C'est trop cool!"
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ils créent des sites, des pages institutionnelles pour BAnQ. Ça crée comme un auteur officiel pour l'information qui est ensuite ajoutée. Ça donne de la visibilité à ce centre de documentation. Je recommande fortement que tu ailles le lire, à temps perdu.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je peux lire ça au pied du sapin de Noël.
+</div>
+</div>
+
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On m'avait appris, quand je faisais mon baccalauréat, que tu n’utilisais pas Wikipédia comme source, que ce n’était pas fiable. J'arrive ici, à la maîtrise, et c'est un peu l’inverse. Wikipédia est un outil qui peut être fiable. Il faut qu'il y ait assez de sources dans l’article cité, bien sûr. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est ça, c'est vraiment l'obligation de sourcer, en fait, qui est intéressante. Parce que tous les articles ne sont pas de bonne qualité, mais la communauté veille quand même à ce que les articles soient bien sourcés, en général. Puis tu peux toi-même juger de la fiabilité d'un article en regardant quelles sont les sources. Donc ça, c'est quand même super intéressant parce que, justement, il y a plein de sources secondaires, par exemple une entrée d'encyclopédie, pour lesquels tu n’as aucune idée de l’information sur laquelle ils se sont basés pour écrire ça.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Une entrée d’encyclopédie sur Wikipédia qui est basée sur une entrée d’encyclopédie de Canadian Encyclopedia!
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Du point de vue des archives, c'est vraiment différent. Ce ne sont pas nécessairement des articles. Si j'ai bien compris, quand on parle d'archivistique avec Wiki, il y a d’abord une page GLAM. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+  Il faut faire la demande officielle pour avoir sa page GLAM. Ce n’est pas comme les articles. C'est ça que j'avais compris aussi.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ La page GLAM permet d'avoir un Wikipédia, un Wikicommons, etc. Elle est liée à différents… services.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Des plateformes qui sont offerts par la grande compagnie Wiki. C'est quoi son nom? Wikicommons? 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je ne m’en souviens plus.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Le Grand Wiki! 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ La manière d'utiliser ça, surtout pour les archives, c'est qu’on peut, par exemple prendre une photo et la mettre sur Wikicommons. Puis on libère les droits, ou à peu près, pour que notre communauté Wiki puisse utiliser la photo dans leurs articles. C'est une manière de diffuser l’archive. Puis, il y a une autre plateforme Wiki sur laquelle tu peux transcrire, par exemple, le texte d’une archive, qui a été écrit à la main. Tu peux transcrire le texte, tu peux le traduire. Ça, je n'ai pas trop compris. Mais tu le mets là. En fait, tu t'entoures de spécialistes Wikipédia, idéalement, pour monter ce genre de plateforme-là.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est vraiment intéressant. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est vraiment de belles initiatives, parce qu'une réflexion que j'ai eue en effectuant mon travail de recherche dans les archives, c'est que je trouvais que pour Monsieur et Madame Tout-le-Monde, les outils ne sont pas vraiment intuitifs. Même moi, qui viens de suivre quasiment un cours d'archivistique au complet, parfois, j'étais perdue, je ne comprenais pas où j'étais. Ça m'a pris du temps avant de me familiariser avec les outils, avant de pouvoir me dire: "Ah, OK, là, je suis dans une série, dans un fonds." Puis je trouvais ça dommage parce que je me disais que le grand public n'a pas accès à tout ça, finalement. Oui, on y a accès, c'est gratuit, mais il y aurait des efforts à faire en termes de découvrabilité et d'accès pour le public. Donc, je trouve ça vraiment cool qu'il y ait des initiatives d'institutions qui commencent à se dire: "Bon, on a tout ce trésor-là, ça serait le fun de le rendre accessible."
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ De faire la promotion de tout ça.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, j'ai découvert une lettre antivaccin du XIXe siècle. Je me suis dit que ça aurait pu ressortir pendant la pandémie! Ce qui est un peu dommage avec les outils de recherche, c'est que tu ne peux pas vraiment chercher "lettre antivaccin" dans les archives, ça ne fonctionnera pas, parce qu’il n’y a pas de mots-clés descriptifs. En tout cas, là où j’ai cherché, il n’y avait pas de descriptions très précises des archives. Je suis tombée sur la lettre antivaccin un peu par hasard, finalement. J'ai cherché avec mes mots-clés qui étaient "hôpital civique" et ça m'a sorti, entre autres, un résultat en lien avec la Santé publique de Montréal. Je suis allée sur place et on m’a demandé quelle boîte je voulais consulter, car ce "document" comprenait trois boîtes. Par exemple, dans la première, il y avait les sujets de A à H, et ainsi de suite. L'employée des archives dit: "Je vais voir s’il y un index", puis il n’y en avait pas. Donc là, la seule chose qu'on peut faire, c'est sortir les boîtes et regarder. À l’intérieur, il y avait: "A, animal mort, H, hôpital, P, petite vérole..." Tu prends les dossiers qui ont des sujets qui t'intéressent sans savoir ce qu'il y a dedans.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est de la recherche au sens premier du terme; il faut fouiller. J’ai l’impression que ce sont des contenus qui sont surtout accessibles à des historiens ou des journalistes, ou des gens qui savent comment faire, et qui peuvent se permettre de passer beaucoup de temps à fouiller et à éplucher tout ça...
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est ça, parce que même eux n’ont pas la description exacte de ce qui va être dans la boîte. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Parfois, ça disait, par exemple, "correspondance".
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il y a tellement d'archives que... est-ce que c'est réaliste de penser que les archivistes vont vraiment pouvoir lire, examiner, évaluer le contenu de tous les documents d'archives et décider quels termes y associer? "Est-ce que je vais tout numériser, est-ce que je vais tout retranscrire?" C'est une tâche qui est énorme. En même temps, ça me fait aussi penser aux folksonomies. Je ne sais pas si on en a parlé dans ce cours. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Dans le cours d'informatique (SCI6005). C’est comme mettre des étiquettes, en fait.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, mais c'est plus basé sur la contribution des usagers, qui entrent en contact avec les archives. Ça peut être des documents de bibliothèque, comme un roman, et on va dire: "Ah, c'est très intéressant, il y a des fées et des dragons là-dedans." Même si ce n'est pas nécessairement dans la description bibliographique. Mais pour une archive, il serait super intéressant d'avoir un espace où, sans qu’il y ait de révision de ce qui va y être inscrit, je vais pouvoir prendre le temps chercher dans les archives qui m’intéressent, découvrir ce qu'il y a dedans, quelles informations on y trouve, et prendre cinq minutes pour ajouter des étiquettes. Ça peut être un commentaire, comme n'importe où, mais ça peut aussi être quelque chose comme: "Ah, ça traite des vaccins ou d'un mouvement antivaccin." Ça aiderait les prochaines personnes qui cherchent de l'information en général. C'est sûr que ce ne serait pas un travail systématique, il y aurait quand même une intervention des archivistes qui devraient gérer les étiquettes qui seraient créées. Mais comparée à l'autre option de devoir aller à travers toutes les boîtes pour les usagers ou tout décrire pour les archivistes, je trouve que c’est une belle possibilité.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ J'ai lu un texte là-dessus pour un autre de mes cours sur le concept d'archives participatives, et c'est exactement ce que tu décris: l’idée de lancer des initiatives où ce sont vraiment des bénévoles, des usagers, des usagères qui reçoivent un peu de formation et d'accompagnement d'archivistes, puis il y a des thésaurus qui sont créés pour que ce soient les bons termes qui soient employés. On avait vu un exemple comme ça dans le cours d'archivistique où il fallait dire "étable" et pas "ferme". " Ça, c'est une étable, ce n'est pas une ferme. " Il faut qu'on s'entende sur comment on appelle les choses. L'article dont je parle était intéressant, parce que c'était une entrevue avec une archiviste qui expliquait comment elle voyait ça, puis comment, quand tu es archiviste, il faut que tu te mettes un peu à la place des utilisateurs et des utilisatrices, que tu comprennes leurs besoins et que tu fasses vraiment le travail d'aller vers eux (David, 2011). Parce qu'au final, c'est eux qui vont t'aider. Ils vont se décourager du projet si jamais tu ne fais pas un premier pas vers eux pour leur expliquer comment ça marche.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, puis le but ultime de l'archive, c'est qu'on y ait accès. Ça ne peut pas être juste des professionnels de l'information qui créent les terminologies pour les métadonnées et celles qui vont être utilisées pour la recherche. Il faudrait qu'il y ait une contribution des usagers.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Pour en revenir à nos apprentissages, c'était bien de comprendre que les archives sont classées par activité et par fonds, par provenance, par qui ces archives-là ont été créées, mais quand on doit chercher là-dedans, tu fais comme: "Oh, attends, ce n'est pas pareil."
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ce n’est pas comme dans Google où tu cherches le sujet. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Ce n’est pas comme dans Google, exactement. Tu cherches le sujet et tu te retrouves avec différents fonds, mais qui vont avoir la même information dans les deux... Ça va être, par exemple, une lettre qui va avoir été écrite à tel département, puis une lettre qui va avoir été écrite à tel autre département, et les deux vont dire sensiblement la même chose. C'est drôle, je pense avoir remarqué que, parfois, il y avait carrément une personne qui avait écrit aux deux départements. C'est un peu mélangeant, tu te demandes: "Je n’ai pas déjà vu ça?" Je ne suis pas encore à l'aise avec ça. Ça prend de la pratique.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ J'ai eu une situation un peu similaire. La pièce d'archive que je vais probablement décrire dans mon travail fait partie d’un fonds qui s'appelle le fonds Viger-Verreau, qui fait partie de la collection du musée de la Civilisation. Mais là, je suis comme: "Attends, un fonds qui fait partie d'une collection? Je suis mélangée." Ensuite, il y a un autre fonds Viger-Verreau, je ne comprends pas si c'est le même ou si c'en est un différent, que je trouve en ligne sur BAC, mais qui n'a pas l'air de contenir la même chose que le fonds Viger-Verreau qui est dans la collection. En tout cas, j'ai eu plusieurs situations comme ça, où je voyais un peu des doublons, puis des choses qui s'appelaient pareil, mais qui n'avaient pas l'air d'avoir le même contenu. C'est vraiment mélangeant. En tout cas, j'ai écrit à l'archiviste du musée de la Civilisation pour qu'il m'éclaire un peu, parce que j'étais perdue. J'ai eu besoin qu'on m'explique, donc imagine des usagers lambdas.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ J’ai eu la chance d’avoir de l’aide sur place. L’employée m'a dit: "Ah ça, non, tu n’as pas besoin de ça, c'est en ligne." Ah, OK. Puis: "Je vais aller te chercher ça, duquel tu as besoin?" Je ne sais pas. Je la vois naviguer dans l'instrument de recherche, elle ouvre tous les sous-dossiers... Ça prend de la pratique. Tu te dis qu’une petite recherche dans les archives, ça va bien se faire. Mais ce n’est pas si facile.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Mais c'est un nouveau langage aussi, qu'on est en train d'apprendre. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ç’a été clairement un des gros apprentissages pour moi, ce côté pratique. On a appris plein de choses en théorie, on a discuté des concepts qu'on avait appris, puis de ce qu'on comprenait, de ce qu'on ne comprenait pas. OK, mais dans la pratique... Il faut le faire. Et je n’ai pas fini d’apprendre.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Puis aussi, parfois, la théorie, c'est l'idéal, c'est le rêve: on devrait faire ça, ça devrait être comme ça, l'accès devrait être facilité. La réalité, c'est qu'il y a 50, 100, 1000 années d'accumulation de choses qui ne se sont pas faites parfaitement.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est ça, en écoutant la théorie en classe, je me disais: "Le travail final, ça ne va pas être si dur que ça, il suffit de chercher, puis tout va être bien organisé "Non, non, c'est un peu plus compliqué que ça.
+</div>
+</div>
+ 
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il fonctionne, ce projet, en tout cas. Ce travail est efficace!
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, ce sont vraiment des bons travaux. Même les fiches de lecture, les textes que j'ai choisis, c’est parce qu'ils m'ont parlé pour vrai, et j'ai vraiment retenu des choses. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, c'est bien de pouvoir choisir le texte parmi une liste et de dire: "Ah, ça, ç’a l'air intéressant". On approfondit la réflexion au lieu de juste le lire.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Y a-t-il d’autres apprentissages que vous voudriez aborder? 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Moi, je savais qu'il y avait des lois qui s'appliquaient aux archives, mais sans pouvoir le verbaliser. Ça n'a pas été une surprise d’apprendre qu’il y avait des lois attachées aux archives. Mais quand j'en ai saisi la quantité et la complexité, ça, c'est quelque chose qui m'a frappée.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, surtout qu’on ne s'attend pas nécessairement à ça. Enfin, quand tu y réfléchis deux secondes, oui, mais moi, je n'avais pas trop pensé, en arrivant dans le cours d'archivistique qu’on allait parler de la loi, de droit. C'est un univers que je ne connais pas du tout, donc je me rends compte qu'en tant qu'archiviste, tu dois... pas forcément devenir une juriste, mais au moins maîtriser les lois qui s'appliquent à ce que tu fais, parce que tu vas être confrontée à ça quand même souvent et tu vas te dire des choses comme: "Ça, je dois l'éliminer. Ça, je peux l'éliminer au bout de sept ans ou cinq ans. Ça, je dois le garder pour toujours. Ça, c'est un document essentiel."
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je m'attendais à ce qu'il y ait une loi, mais il y en a tout plein. Tu ne dois pas nécessairement toutes les connaître, mais tu dois avoir conscience qu'elles existent, puis quand même en connaître les grandes lignes. Je ne les ai pas lues, donc c'est un peu ardu. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je pense que c'est le genre de choses que tu apprends mieux en pratique: "OK, là, c'est telle loi qui s'applique dans tel cas de figure."
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Une autre chose que j'ai apprise, c'est que la loi actuelle des archives était désuète, et qu'ils étaient en train de travailler pour la renouveler. Ça, ça m'a... 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui! C'est parce que... tout ce qu'on apprend depuis le début du cours, ça va donc être désuet?
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il va y avoir un nouveau cours l'année prochaine. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, c'est ça, avec le nouveau vocabulaire!
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça, les changements de vocabulaire, ce n’est pas un petit changement, parce qu’on fait de la description en archivistique. On est dans les mots. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Ça fait réaliser que si on veut s’orienter en archivistique, il faut absolument se tenir à jour, parce que ce que tu as appris à l'université, même si les principes vont rester, le vocabulaire change, la terminologie change, et il faut que tu sois au courant. On en parle souvent, même en bibliothéconomie, de se tenir à jour, de continuer à apprendre tout au long de sa carrière, de continuer à améliorer les choses. Je me suis inscrite aux nouvelles de BAnQ. Tu peux t'inscrire aux nouvelles de la Loi sur les archives. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est bon, ça! Bonne initiative.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça va te garder au courant. J'avais une petite connaissance du côté législatif, parce que j'avais travaillé comme technicienne en documentation, surtout relativement au transfert des documents du semi-actif à l’inactif. Ça fait partie des tâches. Avoir ton calendrier puis ton plan de classification, ce n’est pas une option. Il faut que tu en aies un, surtout pour le gouvernement, parce que ce sont des documents qui sont tellement importants! J’essaie de me souvenir quelle était la règle de conservation pour nos courriels... Je sais que ça n’avait pas besoin d’être conservé longtemps. J'avais une connaissance de la législation archivistique, mais c'est sûr que c'est intéressant de le voir un peu plus en profondeur. Je trouve aussi qu’on n'a pas eu beaucoup de détails. C'est correct, je pense que ça aurait été un peu trop.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est un cours d'introduction. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est ça, c'est un cours d'introduction. Sinon, j'avais une petite critique de la présentation de Carol Couture. Je trouvais ça vraiment intéressant qu'on ait une comparaison de son CV, de son parcours, à l'historique de l'archivistique au Québec. En même temps, pour moi, il manquait un peu de viande à l'histoire, parce que j'aurais voulu plus de contexte pour mieux comprendre l'histoire de la législation de l’archivistique. Il y avait tellement de points! C'était dur de créer une ligne de temps cohérente dans ma tête. Je trouve que c'est une version réduite, un peu simplifiée. C'est sûr, parce qu’on n'a pas cinq ans pour avoir tout le résumé. J'aurais voulu en savoir un peu plus. Sa perspective était très intéressante, mais comment je me vois là-dedans, à travers son parcours? Comment ça reflète ce que je vais avoir comme expérience si je veux aller dans ce domaine-là?
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'était à la fois beaucoup d'informations et en même temps, on n'avait pas le temps de rentrer en profondeur. J'aurais préféré encore plus d'anecdotes, à la limite, sur comment ça s'est passé.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Comment ç’a affecté son travail, son poste, son rôle. Quand il y a eu ces changements-là, est-ce que c'était vraiment aussi successif? "Il faut que ça se fasse, on le fait; il faut que ça se fasse, on le fait"...
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est vrai. Effectivement, j'ai eu un peu la même impression. Il a mis beaucoup d'informations, mais finalement, c’étaient beaucoup d’énumérations: "On a fait ça, ensuite on a fait ça." C'est comme la conférence qu'on a eue sur la gouvernance de l'information de Dominique Maurel. Encore là, j'ai trouvé ça super intéressant, mais mon Dieu que ça faisait beaucoup de contenu... J'ai eu l'impression de recevoir une chute d'informations avec des termes que je n’étais pas habituée à entendre. Gouvernance de l'information, stratégie, politique... 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ J'avoue que "gouvernance de l'information", ça me semble encore relativement flou. Ce que j'ai compris, c'est que la gouvernance de l'information, c'est une entité composée de gestionnaires qui vont décider comment l'information dans l'organisation, l'entreprise, va être gérée. Mais ce ne sont pas nécessairement des professionnels de l'information.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C’est ça. Et c'est près du pouvoir. Près des strates de la hiérarchie les plus élevées, parce que ça fait partie de la mission de l'organisation aussi de savoir comment elle va gérer son information.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Est-ce que la conclusion, c’était que ça serait le fun qu'il y ait un professionnel de l'information dans cette entité-là? 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Je pense qu’il y avait le souhait que plus de professionnels de l’information fassent de la gouvernance de l'information. Il faut que ça se fasse. N'importe quel organisme, n'importe quelle compagnie a besoin de cet effort du haut pour décider ce qui doit vraiment être protégé, ce dont on a absolument besoin, ce qui ne doit pas être consultable par tout le monde dans l’organisme. Mais ce ne sont peut-être pas toujours les meilleures stratégies qui sont utilisées. Est-ce que ce sont des méthodes de recherche prouvées qu'on utilise à l’interne, de quelqu'un qui a étudié là-dedans? Ou est-ce qu’on fait comme ça parce qu’on a toujours fait comme ça depuis le début de l'organisme?
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ On voit ce que ça donne.
+</div>
+</div>
+ 
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est ça, exactement! 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ C'est la conclusion: c'est comme ça que ça marche dans la plupart des organisations, mais ça serait le fun que ça ne soit pas comme ça.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça tombe sur le dos d'une personne qui est là depuis 40 ans, qui aimerait éventuellement prendre sa retraite et qui est comme: "Ah, j'ai 40 ans d'informations à transmettre!"
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C’est le volet de transfert des connaissances. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, ça, ce sont vraiment les professionnels de l'information qui devraient gérer ça, mais ça n’a pas directement rapport avec la gouvernance. Tout se place en dessous de la gouvernance, mais dans le fond, ça le transfert des connaissances, ça peut être un ouvrier qui est là depuis 40 ans, qui veut partir à la retraite et qui est le seul à pouvoir faire telle ou telle tâche. On peut faire le transfert de connaissances sous forme de vidéos explicatives ou de textes écrits. Tu peux aussi offrir une formation, ou tout ça à la fois, mais il faut que quelqu'un amène les gens à mettre leurs connaissances.  Donc ça, c'étaient comme les deux volets de la conférence de Mme Maurel. Mais c'est pour ça qu'à un moment donné, la partie "gouvernance dans l'information", j'étais comme: "OK, mais ça se place où dans la gestion des connaissances?" 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Sinon, j'ai vraiment aimé la présentation de la semaine passée de François Cartier, j'ai trouvé ça vraiment intéressant. J'ai aussi aimé la discussion sur le pouvoir des archives. Je pense qu'on examine beaucoup d'aspects pratiques dans ce cours, ce qui est très apprécié, parce qu'on se perd parfois dans la théorie. Mais l'aspect social des archives, et comment les entités coloniales et les empires utilisent des archives comme outils pour légitimer, rendre leur pouvoir légitime, c’est un aspect qui m'intéresse beaucoup.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Est-ce que tu as suivi des cours là-dessus, ou est-ce que tu vas en suivre? 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, mais pas à McGill, pendant mon baccalauréat. J'ai fait des études critiques en sexualité. Dans le fond, les archives, ce sont vraiment des documents primaires, parce que ce ne sont pas souvent des notions qui se trouvent dans l'histoire générale. Tout ce qui concerne la diversité des genres et de la sexualité, ce sont vraiment des documents rares, des documents qui sont exceptionnels quasiment, qu'on utilise pour faire ressortir une histoire qui, autrement, n'est pas racontée du tout. C'est intentionnel, ce n’est pas accidentel que les documents d'un médecin qui faisait des opérations sur des personnes transgenres aient été détruits.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ou juste pas conservés, j'imagine. Il y a sûrement eu aussi des cas de destruction de documents.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, il y a eu des cas de destruction, il y a aussi eu des cas de perte des documents. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ou juste des archivistes qui ont décidé que ça, ce n’était pas important.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il y a aussi toujours cette idée que si on ne veut pas qu’une personne existe, on va faire en sorte qu'elle n'ait jamais existé, qu'il n'y ait pas de traces. Cet aspect-là, ça m'intéresse tellement! C'est beaucoup moins important ou c'est beaucoup moins abordé dans la pratique archivistique, surtout quand on parle de tout ce qui est actif. Il y a tellement de travail à faire et de gestion courante des documents et de l'information que cet aspect-là est un peu mis de côté. Moi, je trouve ça super intéressant. Il est bon narrateur aussi, François Cartier.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Il en parlait, de cette question: ce qui est gardé, et ce que ça dit sur qui a décidé de garder quoi. Il y avait des décisions qui se prenaient à ce niveau-là. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On dit que l'histoire est décrite par ceux qui l'ont gagnée.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Exactement. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On efface les documents des perdants, après les guerres, mais ça concerne aussi le colonialisme.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ On peut commencer par parler du projet de recherche dans les archives. J'ai trouvé que c’était un exercice vraiment intéressant. Ça nous a vraiment donné la chance d’être dans la position de quelqu'un qui a de l'information à trouver. C'était bien, aussi, qu'on puisse choisir un sujet qui nous intéresse, parce que ce n'est pas irréaliste de vouloir trouver de l'information, d’avoir à explorer des centres d'archives, des centres documentaires et de devoir commencer sa recherche en ligne. Quand on trouve une source d'information qui est secondaire, il on peut essayer d’en retracer la source originale, par exemple. Au début, je voulais effectuer des recherches sur les origines de l'Action de grâce. Ensuite, je suis allée explorer du côté des conditions et des traitements des patients de l'hôpital Protestant Hospital for the Insane. Il y avait plein de sources secondaires pour ces sujets. Mais les sources secondaires, parfois, ce sont des articles d'encyclopédie et les sources consultées n’y sont pas indiquées. Les articles nous donnent plein d'informations qui ont l'air super pertinentes, super utiles, c'est une source qui est fiable, mais… c'est basé sur quoi? Je ne sais pas et je ne pourrai pas le savoir. Dans ma tête, un article Wikipédia était un peu moins fiable, mais ces derniers peuvent comporter des liens vers des archives ou vers des centres de documentation, des musées, etc. Ça m'a un peu surprise.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ D'ailleurs, c'est intéressant que tu parles de Wikipédia, parce que moi, dans mon travail, à un moment donné, je cherchais à accéder au fond du registre paroissial de Saint-Joseph de Lévis, à Québec. J’ai cherché dans Advitam, BAC et Bibliothèque et Archives Canada. Je ne trouvais rien. Je me disais: "Bon, ça ne doit pas être en ligne, tant pis." À un moment donné, en faisant d’autres recherches sur la page Wikipédia de la paroisse en question, je vois: "Le fonds est disponible sur BAnQ, voici le lien." Là, je clique sur le lien, et je le trouve. J'ai dû passer par Wikipédia pour être capable de trouver le fonds! Je pense que ce qui est arrivé, c’est que dans le moteur de recherche d’Advitam, je l'écrivais avec des traits d’union alors qu’il n'en fallait pas, ou le contraire. Donc là, j'ai fait: "OK, il faut vraiment être super précis dans la recherche." Ça m'a vraiment surprise que, de tous les endroits possibles où j'aurais pu trouver l'information, c'est Wikipédia qui m'ait finalement dirigée vers le fonds dont j'avais besoin. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ L'article que j'ai lu pour la deuxième fiche de lecture, c'était celui sur Wikipédia, justement (Yoakim, 2019). Ça m'a donc donné l'idée de commencer de ce côté, parce que, justement, il y a un grand projet avec Bibliothèque et Archives nationales du Québec, dans lequel ils mettent des liens sur Wikipédia afin de rediriger vers les fonds, vers les archives. C'est vraiment intéressant parce que Wikipédia a tellement de visibilité que ça augmente la visibilité des fonds qui, autrement, pourraient rester dans l’obscurité.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Est-ce que vous avez toutes les deux lu le texte sur Wikipédia? 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, je l’ai trouvé tellement intéressant.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Moi, je pense que je ne l'ai pas lu. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+  Tu t'en souviendrais.
+</div>
+</div>
+
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je me suis dit: "Il y a vraiment des sites Wikis de la BAnQ et ils diffusent leurs archives par là? C'est trop cool!"
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ils créent des sites, des pages institutionnelles pour BAnQ. Ça crée comme un auteur officiel pour l'information qui est ensuite ajoutée. Ça donne de la visibilité à ce centre de documentation. Je recommande fortement que tu ailles le lire, à temps perdu.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je peux lire ça au pied du sapin de Noël.
+</div>
+</div>
+
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On m'avait appris, quand je faisais mon baccalauréat, que tu n’utilisais pas Wikipédia comme source, que ce n’était pas fiable. J'arrive ici, à la maîtrise, et c'est un peu l’inverse. Wikipédia est un outil qui peut être fiable. Il faut qu'il y ait assez de sources dans l’article cité, bien sûr. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est ça, c'est vraiment l'obligation de sourcer, en fait, qui est intéressante. Parce que tous les articles ne sont pas de bonne qualité, mais la communauté veille quand même à ce que les articles soient bien sourcés, en général. Puis tu peux toi-même juger de la fiabilité d'un article en regardant quelles sont les sources. Donc ça, c'est quand même super intéressant parce que, justement, il y a plein de sources secondaires, par exemple une entrée d'encyclopédie, pour lesquels tu n’as aucune idée de l’information sur laquelle ils se sont basés pour écrire ça.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Une entrée d’encyclopédie sur Wikipédia qui est basée sur une entrée d’encyclopédie de Canadian Encyclopedia!
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Du point de vue des archives, c'est vraiment différent. Ce ne sont pas nécessairement des articles. Si j'ai bien compris, quand on parle d'archivistique avec Wiki, il y a d’abord une page GLAM. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+  Il faut faire la demande officielle pour avoir sa page GLAM. Ce n’est pas comme les articles. C'est ça que j'avais compris aussi.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ La page GLAM permet d'avoir un Wikipédia, un Wikicommons, etc. Elle est liée à différents… services.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Des plateformes qui sont offerts par la grande compagnie Wiki. C'est quoi son nom? Wikicommons? 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je ne m’en souviens plus.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Le Grand Wiki! 
+</div>
+</div>
+
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ La manière d'utiliser ça, surtout pour les archives, c'est qu’on peut, par exemple prendre une photo et la mettre sur Wikicommons. Puis on libère les droits, ou à peu près, pour que notre communauté Wiki puisse utiliser la photo dans leurs articles. C'est une manière de diffuser l’archive. Puis, il y a une autre plateforme Wiki sur laquelle tu peux transcrire, par exemple, le texte d’une archive, qui a été écrit à la main. Tu peux transcrire le texte, tu peux le traduire. Ça, je n'ai pas trop compris. Mais tu le mets là. En fait, tu t'entoures de spécialistes Wikipédia, idéalement, pour monter ce genre de plateforme-là.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est vraiment intéressant. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est vraiment de belles initiatives, parce qu'une réflexion que j'ai eue en effectuant mon travail de recherche dans les archives, c'est que je trouvais que pour Monsieur et Madame Tout-le-Monde, les outils ne sont pas vraiment intuitifs. Même moi, qui viens de suivre quasiment un cours d'archivistique au complet, parfois, j'étais perdue, je ne comprenais pas où j'étais. Ça m'a pris du temps avant de me familiariser avec les outils, avant de pouvoir me dire: "Ah, OK, là, je suis dans une série, dans un fonds." Puis je trouvais ça dommage parce que je me disais que le grand public n'a pas accès à tout ça, finalement. Oui, on y a accès, c'est gratuit, mais il y aurait des efforts à faire en termes de découvrabilité et d'accès pour le public. Donc, je trouve ça vraiment cool qu'il y ait des initiatives d'institutions qui commencent à se dire: "Bon, on a tout ce trésor-là, ça serait le fun de le rendre accessible."
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ De faire la promotion de tout ça.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, j'ai découvert une lettre antivaccin du XIXe siècle. Je me suis dit que ça aurait pu ressortir pendant la pandémie! Ce qui est un peu dommage avec les outils de recherche, c'est que tu ne peux pas vraiment chercher "lettre antivaccin" dans les archives, ça ne fonctionnera pas, parce qu’il n’y a pas de mots-clés descriptifs. En tout cas, là où j’ai cherché, il n’y avait pas de descriptions très précises des archives. Je suis tombée sur la lettre antivaccin un peu par hasard, finalement. J'ai cherché avec mes mots-clés qui étaient "hôpital civique" et ça m'a sorti, entre autres, un résultat en lien avec la Santé publique de Montréal. Je suis allée sur place et on m’a demandé quelle boîte je voulais consulter, car ce "document" comprenait trois boîtes. Par exemple, dans la première, il y avait les sujets de A à H, et ainsi de suite. L'employée des archives dit: "Je vais voir s’il y un index", puis il n’y en avait pas. Donc là, la seule chose qu'on peut faire, c'est sortir les boîtes et regarder. À l’intérieur, il y avait: "A, animal mort, H, hôpital, P, petite vérole..." Tu prends les dossiers qui ont des sujets qui t'intéressent sans savoir ce qu'il y a dedans.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est de la recherche au sens premier du terme; il faut fouiller. J’ai l’impression que ce sont des contenus qui sont surtout accessibles à des historiens ou des journalistes, ou des gens qui savent comment faire, et qui peuvent se permettre de passer beaucoup de temps à fouiller et à éplucher tout ça...
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est ça, parce que même eux n’ont pas la description exacte de ce qui va être dans la boîte. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Parfois, ça disait, par exemple, "correspondance".
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il y a tellement d'archives que... est-ce que c'est réaliste de penser que les archivistes vont vraiment pouvoir lire, examiner, évaluer le contenu de tous les documents d'archives et décider quels termes y associer? "Est-ce que je vais tout numériser, est-ce que je vais tout retranscrire?" C'est une tâche qui est énorme. En même temps, ça me fait aussi penser aux folksonomies. Je ne sais pas si on en a parlé dans ce cours. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Dans le cours d'informatique (SCI6005). C’est comme mettre des étiquettes, en fait.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, mais c'est plus basé sur la contribution des usagers, qui entrent en contact avec les archives. Ça peut être des documents de bibliothèque, comme un roman, et on va dire: "Ah, c'est très intéressant, il y a des fées et des dragons là-dedans." Même si ce n'est pas nécessairement dans la description bibliographique. Mais pour une archive, il serait super intéressant d'avoir un espace où, sans qu’il y ait de révision de ce qui va y être inscrit, je vais pouvoir prendre le temps chercher dans les archives qui m’intéressent, découvrir ce qu'il y a dedans, quelles informations on y trouve, et prendre cinq minutes pour ajouter des étiquettes. Ça peut être un commentaire, comme n'importe où, mais ça peut aussi être quelque chose comme: "Ah, ça traite des vaccins ou d'un mouvement antivaccin." Ça aiderait les prochaines personnes qui cherchent de l'information en général. C'est sûr que ce ne serait pas un travail systématique, il y aurait quand même une intervention des archivistes qui devraient gérer les étiquettes qui seraient créées. Mais comparée à l'autre option de devoir aller à travers toutes les boîtes pour les usagers ou tout décrire pour les archivistes, je trouve que c’est une belle possibilité.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ J'ai lu un texte là-dessus pour un autre de mes cours sur le concept d'archives participatives, et c'est exactement ce que tu décris: l’idée de lancer des initiatives où ce sont vraiment des bénévoles, des usagers, des usagères qui reçoivent un peu de formation et d'accompagnement d'archivistes, puis il y a des thésaurus qui sont créés pour que ce soient les bons termes qui soient employés. On avait vu un exemple comme ça dans le cours d'archivistique où il fallait dire "étable" et pas "ferme". " Ça, c'est une étable, ce n'est pas une ferme. " Il faut qu'on s'entende sur comment on appelle les choses. L'article dont je parle était intéressant, parce que c'était une entrevue avec une archiviste qui expliquait comment elle voyait ça, puis comment, quand tu es archiviste, il faut que tu te mettes un peu à la place des utilisateurs et des utilisatrices, que tu comprennes leurs besoins et que tu fasses vraiment le travail d'aller vers eux (David, 2011). Parce qu'au final, c'est eux qui vont t'aider. Ils vont se décourager du projet si jamais tu ne fais pas un premier pas vers eux pour leur expliquer comment ça marche.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, puis le but ultime de l'archive, c'est qu'on y ait accès. Ça ne peut pas être juste des professionnels de l'information qui créent les terminologies pour les métadonnées et celles qui vont être utilisées pour la recherche. Il faudrait qu'il y ait une contribution des usagers.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Pour en revenir à nos apprentissages, c'était bien de comprendre que les archives sont classées par activité et par fonds, par provenance, par qui ces archives-là ont été créées, mais quand on doit chercher là-dedans, tu fais comme: "Oh, attends, ce n'est pas pareil."
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ce n’est pas comme dans Google où tu cherches le sujet. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Ce n’est pas comme dans Google, exactement. Tu cherches le sujet et tu te retrouves avec différents fonds, mais qui vont avoir la même information dans les deux... Ça va être, par exemple, une lettre qui va avoir été écrite à tel département, puis une lettre qui va avoir été écrite à tel autre département, et les deux vont dire sensiblement la même chose. C'est drôle, je pense avoir remarqué que, parfois, il y avait carrément une personne qui avait écrit aux deux départements. C'est un peu mélangeant, tu te demandes: "Je n’ai pas déjà vu ça?" Je ne suis pas encore à l'aise avec ça. Ça prend de la pratique.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ J'ai eu une situation un peu similaire. La pièce d'archive que je vais probablement décrire dans mon travail fait partie d’un fonds qui s'appelle le fonds Viger-Verreau, qui fait partie de la collection du musée de la Civilisation. Mais là, je suis comme: "Attends, un fonds qui fait partie d'une collection? Je suis mélangée." Ensuite, il y a un autre fonds Viger-Verreau, je ne comprends pas si c'est le même ou si c'en est un différent, que je trouve en ligne sur BAC, mais qui n'a pas l'air de contenir la même chose que le fonds Viger-Verreau qui est dans la collection. En tout cas, j'ai eu plusieurs situations comme ça, où je voyais un peu des doublons, puis des choses qui s'appelaient pareil, mais qui n'avaient pas l'air d'avoir le même contenu. C'est vraiment mélangeant. En tout cas, j'ai écrit à l'archiviste du musée de la Civilisation pour qu'il m'éclaire un peu, parce que j'étais perdue. J'ai eu besoin qu'on m'explique, donc imagine des usagers lambdas.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ J’ai eu la chance d’avoir de l’aide sur place. L’employée m'a dit: "Ah ça, non, tu n’as pas besoin de ça, c'est en ligne." Ah, OK. Puis: "Je vais aller te chercher ça, duquel tu as besoin?" Je ne sais pas. Je la vois naviguer dans l'instrument de recherche, elle ouvre tous les sous-dossiers... Ça prend de la pratique. Tu te dis qu’une petite recherche dans les archives, ça va bien se faire. Mais ce n’est pas si facile.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Mais c'est un nouveau langage aussi, qu'on est en train d'apprendre. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ç’a été clairement un des gros apprentissages pour moi, ce côté pratique. On a appris plein de choses en théorie, on a discuté des concepts qu'on avait appris, puis de ce qu'on comprenait, de ce qu'on ne comprenait pas. OK, mais dans la pratique... Il faut le faire. Et je n’ai pas fini d’apprendre.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Puis aussi, parfois, la théorie, c'est l'idéal, c'est le rêve: on devrait faire ça, ça devrait être comme ça, l'accès devrait être facilité. La réalité, c'est qu'il y a 50, 100, 1000 années d'accumulation de choses qui ne se sont pas faites parfaitement.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est ça, en écoutant la théorie en classe, je me disais: "Le travail final, ça ne va pas être si dur que ça, il suffit de chercher, puis tout va être bien organisé.Non, non, c'est un peu plus compliqué que ça.
+</div>
+</div>
+ 
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il fonctionne, ce projet, en tout cas. Ce travail est efficace!
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, ce sont vraiment des bons travaux. Même les fiches de lecture, les textes que j'ai choisis, c’est parce qu'ils m'ont parlé pour vrai, et j'ai vraiment retenu des choses. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, c'est bien de pouvoir choisir le texte parmi une liste et de dire: "Ah, ça, ç’a l'air intéressant". On approfondit la réflexion au lieu de juste le lire.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Y a-t-il d’autres apprentissages que vous voudriez aborder? 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Moi, je savais qu'il y avait des lois qui s'appliquaient aux archives, mais sans pouvoir le verbaliser. Ça n'a pas été une surprise d’apprendre qu’il y avait des lois attachées aux archives. Mais quand j'en ai saisi la quantité et la complexité, ça, c'est quelque chose qui m'a frappée.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui, surtout qu’on ne s'attend pas nécessairement à ça. Enfin, quand tu y réfléchis deux secondes, oui, mais moi, je n'avais pas trop pensé, en arrivant dans le cours d'archivistique qu’on allait parler de la loi, de droit. C'est un univers que je ne connais pas du tout, donc je me rends compte qu'en tant qu'archiviste, tu dois... pas forcément devenir une juriste, mais au moins maîtriser les lois qui s'appliquent à ce que tu fais, parce que tu vas être confrontée à ça quand même souvent et tu vas te dire des choses comme: "Ça, je dois l'éliminer. Ça, je peux l'éliminer au bout de sept ans ou cinq ans. Ça, je dois le garder pour toujours. Ça, c'est un document essentiel."
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Je m'attendais à ce qu'il y ait une loi, mais il y en a tout plein. Tu ne dois pas nécessairement toutes les connaître, mais tu dois avoir conscience qu'elles existent, puis quand même en connaître les grandes lignes. Je ne les ai pas lues, donc c'est un peu ardu. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Je pense que c'est le genre de choses que tu apprends mieux en pratique: "OK, là, c'est telle loi qui s'applique dans tel cas de figure."
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Une autre chose que j'ai apprise, c'est que la loi actuelle des archives était désuète, et qu'ils étaient en train de travailler pour la renouveler. Ça, ça m'a... 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui! C'est parce que... tout ce qu'on apprend depuis le début du cours, ça va donc être désuet?
+</div>
+</div>
+
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il va y avoir un nouveau cours l'année prochaine. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, c'est ça, avec le nouveau vocabulaire!
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça, les changements de vocabulaire, ce n’est pas un petit changement, parce qu’on fait de la description en archivistique. On est dans les mots. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Ça fait réaliser que si on veut s’orienter en archivistique, il faut absolument se tenir à jour, parce que ce que tu as appris à l'université, même si les principes vont rester, le vocabulaire change, la terminologie change, et il faut que tu sois au courant. On en parle souvent, même en bibliothéconomie, de se tenir à jour, de continuer à apprendre tout au long de sa carrière, de continuer à améliorer les choses. Je me suis inscrite aux nouvelles de BAnQ. Tu peux t'inscrire aux nouvelles de la Loi sur les archives. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est bon, ça! Bonne initiative.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça va te garder au courant. J'avais une petite connaissance du côté législatif, parce que j'avais travaillé comme technicienne en documentation, surtout relativement au transfert des documents du semi-actif à l’inactif. Ça fait partie des tâches. Avoir ton calendrier puis ton plan de classification, ce n’est pas une option. Il faut que tu en aies un, surtout pour le gouvernement, parce que ce sont des documents qui sont tellement importants! J’essaie de me souvenir quelle était la règle de conservation pour nos courriels... Je sais que ça n’avait pas besoin d’être conservé longtemps. J'avais une connaissance de la législation archivistique, mais c'est sûr que c'est intéressant de le voir un peu plus en profondeur. Je trouve aussi qu’on n'a pas eu beaucoup de détails. C'est correct, je pense que ça aurait été un peu trop.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est un cours d'introduction. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est ça, c'est un cours d'introduction. Sinon, j'avais une petite critique de la présentation de Carol Couture. Je trouvais ça vraiment intéressant qu'on ait une comparaison de son CV, de son parcours, à l'historique de l'archivistique au Québec. En même temps, pour moi, il manquait un peu de viande à l'histoire, parce que j'aurais voulu plus de contexte pour mieux comprendre l'histoire de la législation de l’archivistique. Il y avait tellement de points! C'était dur de créer une ligne de temps cohérente dans ma tête. Je trouve que c'est une version réduite, un peu simplifiée. C'est sûr, parce qu’on n'a pas cinq ans pour avoir tout le résumé. J'aurais voulu en savoir un peu plus. Sa perspective était très intéressante, mais comment je me vois là-dedans, à travers son parcours? Comment ça reflète ce que je vais avoir comme expérience si je veux aller dans ce domaine-là?
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'était à la fois beaucoup d'informations et en même temps, on n'avait pas le temps de rentrer en profondeur. J'aurais préféré encore plus d'anecdotes, à la limite, sur comment ça s'est passé.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Comment ç’a affecté son travail, son poste, son rôle. Quand il y a eu ces changements-là, est-ce que c'était vraiment aussi successif? "Il faut que ça se fasse, on le fait; il faut que ça se fasse, on le fait"...
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C'est vrai. Effectivement, j'ai eu un peu la même impression. Il a mis beaucoup d'informations, mais finalement, c’étaient beaucoup d’énumérations: "On a fait ça, ensuite on a fait ça." C'est comme la conférence qu'on a eue sur la gouvernance de l'information de Dominique Maurel. Encore là, j'ai trouvé ça super intéressant, mais mon Dieu que ça faisait beaucoup de contenu... J'ai eu l'impression de recevoir une chute d'informations avec des termes que je n’étais pas habituée à entendre. Gouvernance de l'information, stratégie, politique... 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ J'avoue que "gouvernance de l'information", ça me semble encore relativement flou. Ce que j'ai compris, c'est que la gouvernance de l'information, c'est une entité composée de gestionnaires qui vont décider comment l'information dans l'organisation, l'entreprise, va être gérée. Mais ce ne sont pas nécessairement des professionnels de l'information.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C’est ça. Et c'est près du pouvoir. Près des strates de la hiérarchie les plus élevées, parce que ça fait partie de la mission de l'organisation aussi de savoir comment elle va gérer son information.
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Est-ce que la conclusion, c’était que ça serait le fun qu'il y ait un professionnel de l'information dans cette entité-là? 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Oui. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Je pense qu’il y avait le souhait que plus de professionnels de l’information fassent de la gouvernance de l'information. Il faut que ça se fasse. N'importe quel organisme, n'importe quelle compagnie a besoin de cet effort du haut pour décider ce qui doit vraiment être protégé, ce dont on a absolument besoin, ce qui ne doit pas être consultable par tout le monde dans l’organisme. Mais ce ne sont peut-être pas toujours les meilleures stratégies qui sont utilisées. Est-ce que ce sont des méthodes de recherche prouvées qu'on utilise à l’interne, de quelqu'un qui a étudié là-dedans? Ou est-ce qu’on fait comme ça parce qu’on a toujours fait comme ça depuis le début de l'organisme?
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ On voit ce que ça donne. 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ C'est ça, exactement! 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ C'est la conclusion: c'est comme ça que ça marche dans la plupart des organisations, mais ça serait le fun que ça ne soit pas comme ça.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Ça tombe sur le dos d'une personne qui est là depuis 40 ans, qui aimerait éventuellement prendre sa retraite et qui est comme: "Ah, j'ai 40 ans d'informations à transmettre!"
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ C’est le volet de transfert des connaissances. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ Oui, ça, ce sont vraiment les professionnels de l'information qui devraient gérer ça, mais ça n’a pas directement rapport avec la gouvernance. Tout se place en dessous de la gouvernance, mais dans le fond, ça le transfert des connaissances, ça peut être un ouvrier qui est là depuis 40 ans, qui veut partir à la retraite et qui est le seul à pouvoir faire telle ou telle tâche. On peut faire le transfert de connaissances sous forme de vidéos explicatives ou de textes écrits. Tu peux aussi offrir une formation, ou tout ça à la fois, mais il faut que quelqu'un amène les gens à mettre leurs connaissances.  Donc ça, c'étaient comme les deux volets de la conférence de Mme Maurel. Mais c'est pour ça qu'à un moment donné, la partie "gouvernance dans l'information", j'étais comme: "OK, mais ça se place où dans la gestion des connaissances?" 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Sinon, j'ai vraiment aimé la présentation de la semaine passée de François Cartier, j'ai trouvé ça vraiment intéressant. J'ai aussi aimé la discussion sur le pouvoir des archives. Je pense qu'on examine beaucoup d'aspects pratiques dans ce cours, ce qui est très apprécié, parce qu'on se perd parfois dans la théorie. Mais l'aspect social des archives, et comment les entités coloniales et les empires utilisent des archives comme outils pour légitimer, rendre leur pouvoir légitime, c’est un aspect qui m'intéresse beaucoup.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Est-ce que tu as suivi des cours là-dessus, ou est-ce que tu vas en suivre? 
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, mais pas à McGill, pendant mon baccalauréat. J'ai fait des études critiques en sexualité. Dans le fond, les archives, ce sont vraiment des documents primaires, parce que ce ne sont pas souvent des notions qui se trouvent dans l'histoire générale. Tout ce qui concerne la diversité des genres et de la sexualité, ce sont vraiment des documents rares, des documents qui sont exceptionnels quasiment, qu'on utilise pour faire ressortir une histoire qui, autrement, n'est pas racontée du tout. C'est intentionnel, ce n’est pas accidentel que les documents d'un médecin qui faisait des opérations sur des personnes transgenres aient été détruits.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ou juste pas conservés, j'imagine. Il y a sûrement eu aussi des cas de destruction de documents.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Oui, il y a eu des cas de destruction, il y a aussi eu des cas de perte des documents. 
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Ou juste des archivistes qui ont décidé que ça, ce n’était pas important.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Il y a aussi toujours cette idée que si on ne veut pas qu’une personne existe, on va faire en sorte qu'elle n'ait jamais existé, qu'il n'y ait pas de traces. Cet aspect-là, ça m'intéresse tellement! C'est beaucoup moins important ou c'est beaucoup moins abordé dans la pratique archivistique, surtout quand on parle de tout ce qui est actif. Il y a tellement de travail à faire et de gestion courante des documents et de l'information que cet aspect-là est un peu mis de côté. Moi, je trouve ça super intéressant. Il est bon narrateur aussi, François Cartier.
+</div>
+</div>
+
+## Marine : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">   <img src="https://marine-noldar.github.io/glowing-disco/images/marine-photo.jpg" alt="Marine" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">   <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #D3E8E0; position: relative;">
+ Il en parlait, de cette question: ce qui est gardé, et ce que ça dit sur qui a décidé de garder quoi. Il y avait des décisions qui se prenaient à ce niveau-là. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On dit que l'histoire est décrite par ceux qui l'ont gagnée.
+</div>
+</div>
+
+## Taylor :
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/taylor-photo.jpg" alt="Taylor" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #E8D6D3; position: relative;">
+ Exactement. 
+</div>
+</div>
+
+## Pascale : 
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="https://marine-noldar.github.io/glowing-disco/images/pascale-photo.jpg" alt="Pascale" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 15px;">
+  <div style="max-width: 70%; padding: 10px 20px; border-radius: 25px; background-color: #EDE3D3; position: relative;">
+ On efface les documents des perdants, après les guerres, mais ça concerne aussi le colonialisme.
+</div>
+</div>
+
 
 ---
 
